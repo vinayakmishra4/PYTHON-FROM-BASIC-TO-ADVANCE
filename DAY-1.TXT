@@ -30,3 +30,15 @@ Use cases of Python:
 6. Game development
 7. Network programming
 <---------------------------------------------------------------------------------------------------------------------------------->
+<----------------------------------------------INSTALLTION OF PYTHON AND IT IDE----------------------------------------------->
+1. Download the Python installer from the official Python website
+2. Run the installer and follow the prompts to install Python
+3. Choose the installation location and select the components to install
+4. Install the Python interpreter, IDLE, and other tools
+5. Install a code editor or IDE, such as PyCharm, Visual Studio Code, or
+6. Install a package manager, such as pip
+7. Verify the installation by opening a command prompt or terminal and typing `python --version`
+8. Install additional packages and libraries as needed
+9. Set up a virtual environment to isolate dependencies and manage packages
+10. Use a code editor or IDE to write and run Python code
+<---------------------------------------------------------------------------------------------------------------------------------->
