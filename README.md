@@ -5,7 +5,7 @@ FROM BASIC TO ADVANCE LEVEL
 
   # DAY1-Hello World & Setup
   - Installing Python, IDEs, print()
-  - description of hello world in module DAY-1, [click here for DAY-1.TXT](./PYTHON-FROM-BASIC-TO-ADVANCE/DAY-1.TXT)
+  - description of hello world in module DAY-1, [click here for DAY-1.TXT](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1.TXT)
  
 # Prerequisites
 - Python 3.8 or higher]
