@@ -42,3 +42,13 @@ Use cases of Python:
 9. Set up a virtual environment to isolate dependencies and manage packages
 10. Use a code editor or IDE to write and run Python code
 <---------------------------------------------------------------------------------------------------------------------------------->
+FRIST PROGRAM IN PYTHON
+1. Open a text editor or IDE
+2. Write the following code:
+3.print("Hello , World!")
+4. Save the file with a .py extension (e.g., hello.py)
+5. Open a terminal or command prompt
+6. Navigate to the directory where you saved the file
+7. Type `python hello.py` to run the program
+8. The program will print "Hello, World!" to the console
+<----------------------------------------------------------------THANK YOU---------------------------------------------------------->
