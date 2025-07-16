@@ -1,0 +1,32 @@
+<------------------------------------------------PYTHON DAY-1------------------------------------>
+1. Invented in 1991 by Guido van Rossum
+2. Initially called "Python" (not "Python programming language")
+3. First version was Python 0.9.1
+4. Python 1.0 was released in 1994
+5. Python 2.0 was released in 2000
+6. Python 3.0 was released in 2008
+7. Python 3.9 is the latest version
+8. Python is a high-level, interpreted language
+9. Python is dynamically typed
+
+Features of Python:
+1. Easy to learn
+2. Fast development
+3. High-level language
+4. Interpreted language
+5. Dynamic typing
+6. Object-oriented
+7. Extensive libraries
+8. Cross-platform
+9. Open-source
+10. Large community
+
+Use cases of Python:
+1. Web development
+2. Data analysis and science
+3. Machine learning
+4. Automation
+5. Scientific computing
+6. Game development
+7. Network programming
+<---------------------------------------------------------------------------------------------------------------------------------->
