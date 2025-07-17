@@ -11,7 +11,7 @@ FROM BASIC TO ADVANCE LEVEL
   - Pip(Python Package Installer)
   - Module
   - [Pip and Modules](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt)
-  - [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
+  - [Code ](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
  
 # Prerequisites
 - Python 3.8 or higher
