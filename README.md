@@ -10,7 +10,7 @@ FROM BASIC TO ADVANCE LEVEL
   # DAY 2-Pip and Modules
   - Pip(Python Package Installer)
   - Module
-  - [Python and Modules](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.TXT)
+  - [Pip and Modules](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt)
   - [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
  
 # Prerequisites
