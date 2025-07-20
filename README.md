@@ -12,6 +12,14 @@ FROM BASIC TO ADVANCE LEVEL
   - Module
   - [Pip and Modules](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt)
   - [Code ](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
+  
+  # DAY 3-Frist Program
+  - First Program
+  - documentation of first program
+  - [First_Program](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt)
+  - code of first program
+  -  [First_Program](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py)
+
  
 # Prerequisites
 - Python 3.8 or higher
