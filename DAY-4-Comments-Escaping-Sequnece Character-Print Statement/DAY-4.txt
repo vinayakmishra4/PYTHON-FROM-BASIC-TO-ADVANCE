@@ -1,0 +1,61 @@
+<------------------------------------------------PYTHON DAY-4----------------------------------------------->
+Comments:-
+1. Comments is used to explain the code and readable.
+2. Comments is ignored by the interpreter.
+
+Example:-
+# This is a comment
+
+Types of Comments:-
+1. Single line comment:-
+This comment is write in Single line
+
+Sytanx
+# This Sytanx of Single line comment.
+
+Example:-
+# This is a comment
+
+2.Muitple line comment:-
+This comment is write in multiple line
+
+Sytanx:-
+#This is a
+#Sytanx of 
+#Muitple line comment.
+
+Example:-
+# This is a comment.
+
+3.Triple line comment:-
+This comment is write in paragrah
+
+Sytanx:-
+"""
+This is a Sytanx of Triple line comment.
+"""
+
+Example:-
+"""
+This is a comment.
+"""
+
+Escape Sequnec character:-
+An escape sequence character is a series of characters used in programming
+markup languages to represent special characters that cannot be included directly in the text.
+
+Example:-
+print("Hello, \"World\"")  # Output: Hello, "World"
+
+Types of Escape sequence characters:-
+1. Backslash:-
+The backslash is used to escape special characters.
+
+Sytanx:-
+print("String, \\String")  # Output: Hello, \World
+
+Example:-
+print("Hello, \\World")  # Output: Hello, \World
+
+
+
