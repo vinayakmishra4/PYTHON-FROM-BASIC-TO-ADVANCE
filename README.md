@@ -25,9 +25,9 @@ FROM BASIC TO ADVANCE LEVEL
   - Escaping Sequence Character
   - Print Statement
   - document for Comments,Escaping Sequnece Character,Print Statement
-  - [Comments,Escaping Sequnece Character,Print Statement](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character-Print-Statement/DAY-4.txt)
+  - [Comments,Escaping Sequnece Character,Print Statement](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt)
   - code for Comments,Escaping Sequnece Character,Print Statement
-  - [Comments,Escaping Sequnece Character,Print Statement](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character-Print-Statement/CoEsSePr.py)
+  - [Comments,Escaping Sequnece Character,Print Statement](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSePr.py)
   
  
 # Prerequisites
