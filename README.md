@@ -29,6 +29,13 @@ FROM BASIC TO ADVANCE LEVEL
   - code for Comments,Escaping Sequnece Character,Print Statement
   - [Comments,Escaping Sequnece Character](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)
   
+  # DAY 5-Variables-Data-Types
+  - Variables
+  - Data Types
+  - documentation for Variables and Data Types
+  - [Variables and Data Types](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt)
+  - code for Variables and Data Types
+  - [Variables and Data Types](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)
  
 # Prerequisites
 - Python 3.8 or higher
