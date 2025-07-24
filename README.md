@@ -37,6 +37,13 @@ FROM BASIC TO ADVANCE LEVEL
   - code for Variables and Data Types
   - [Variables and Data Types](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)
  
+ # DAY 6-Operators
+ - Operators
+ - documentation for Calculator Exercise
+ - [Calculator Exercise](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt)
+ - code for Calculator Exercise
+ - [Calculator Exercise](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)
+ 
 # Prerequisites
 - Python 3.8 or higher
 - A code editor (VS Code, PyCharm, etc.)
