@@ -20,10 +20,9 @@ FROM BASIC TO ADVANCE LEVEL
   - code of first program
   -  [First_Program](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py)
 
-  # DAY 4-Comments,Escaping Sequnece Character,Print Statement
+  # DAY 4-Comments,Escaping Sequnece Character
   - Comments
   - Escaping Sequence Character
-  - Print Statement
   - document for Comments,Escaping Sequnece Character,Print Statement
   - [Comments,Escaping Sequnece Character](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt)
   - code for Comments,Escaping Sequnece Character,Print Statement
