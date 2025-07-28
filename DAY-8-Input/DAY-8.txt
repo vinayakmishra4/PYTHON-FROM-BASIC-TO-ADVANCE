@@ -1,0 +1,11 @@
+<------------------------------------------------PYTHON DAY-8----------------------------------------------->
+What is input Scanner in python?
+Input Scanner in Python is a built-in function that allows you to get user input from the keyboard. 
+It is used to get the input from the user and store it in a variable.
+
+Sytanx:-
+input() function is used to get the input from the user.
+
+Example:-
+name = input("Enter your name: ")
+print(name)
