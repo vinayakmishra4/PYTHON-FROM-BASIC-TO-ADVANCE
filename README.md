@@ -42,7 +42,15 @@ FROM BASIC TO ADVANCE LEVEL
  - [Calculator Exercise](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt)
  - code for Calculator Exercise
  - [Calculator Exercise](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)
- 
+
+ # DAY 7-Type-Casting
+ -Implicit and Explicit Type Casting
+ - documentation for Type Casting
+ - [Type-Casting](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.txt)
+ - code for Type Casting
+ - [Type-Casting](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)
+
+
 # Prerequisites
 - Python 3.8 or higher
 - A code editor (VS Code, PyCharm, etc.)
