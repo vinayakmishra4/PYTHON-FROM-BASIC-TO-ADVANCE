@@ -1,0 +1,7 @@
+<------------------------------------------------PYTHON DAY-7----------------------------------------------->
+Typecasting in Python
+=====================================
+It is conversion of the two different data types into one data type.
+There are two types of typecasting in python:
+1. Implicit typecasting: It is done automatically by python.
+2. Explicit typecasting: It is done manually by python.
