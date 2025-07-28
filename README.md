@@ -50,6 +50,13 @@ FROM BASIC TO ADVANCE LEVEL
  - code for Type Casting
  - [Type-Casting](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)
 
+ # DAY 8-Scanner
+ - Scanner
+ - documentation for Scanner
+ - [Scanner](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.txt)
+ - code for Scanner
+ - [Scanner](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)
+
 
 # Prerequisites
 - Python 3.8 or higher
