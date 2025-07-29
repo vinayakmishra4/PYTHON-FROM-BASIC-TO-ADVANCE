@@ -57,6 +57,14 @@ FROM BASIC TO ADVANCE LEVEL
  - code for Scanner
  - [Scanner](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)
 
+ # DAY 9-Strings
+ - Strings
+ - documentation for Strings
+ - [Strings](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.txt)
+ - code for Strings
+ - [Strings](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)
+
+ 
 
 # Prerequisites
 - Python 3.8 or higher
