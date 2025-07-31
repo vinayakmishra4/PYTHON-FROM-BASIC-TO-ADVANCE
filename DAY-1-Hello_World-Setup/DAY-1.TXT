@@ -1,54 +1,64 @@
-<------------------------------------------------PYTHON DAY-1------------------------------------>
-1. Invented in 1991 by Guido van Rossum
-2. Initially called "Python" (not "Python programming language")
-3. First version was Python 0.9.1
-4. Python 1.0 was released in 1994
-5. Python 2.0 was released in 2000
-6. Python 3.0 was released in 2008
-7. Python 3.9 is the latest version
-8. Python is a high-level, interpreted language
-9. Python is dynamically typed
+🌟🌟🌟 WELCOME TO PYTHON - DAY 1 🌟🌟🌟
 
-Features of Python:
-1. Easy to learn
-2. Fast development
-3. High-level language
-4. Interpreted language
-5. Dynamic typing
-6. Object-oriented
-7. Extensive libraries
-8. Cross-platform
-9. Open-source
-10. Large community
+<------------------------------------------------ PYTHON DAY-1 ------------------------------------------------>
 
-Use cases of Python:
-1. Web development
-2. Data analysis and science
-3. Machine learning
-4. Automation
-5. Scientific computing
-6. Game development
-7. Network programming
-<---------------------------------------------------------------------------------------------------------------------------------->
-<----------------------------------------------INSTALLTION OF PYTHON AND IT IDE----------------------------------------------->
-1. Download the Python installer from the official Python website
-2. Run the installer and follow the prompts to install Python
-3. Choose the installation location and select the components to install
-4. Install the Python interpreter, IDLE, and other tools
-5. Install a code editor or IDE, such as PyCharm, Visual Studio Code, or
-6. Install a package manager, such as pip
-7. Verify the installation by opening a command prompt or terminal and typing `python --version`
-8. Install additional packages and libraries as needed
-9. Set up a virtual environment to isolate dependencies and manage packages
-10. Use a code editor or IDE to write and run Python code
-<---------------------------------------------------------------------------------------------------------------------------------->
-FRIST PROGRAM IN PYTHON
-1. Open a text editor or IDE
-2. Write the following code:
-3.print("Hello , World!")
-4. Save the file with a .py extension (e.g., hello.py)
-5. Open a terminal or command prompt
-6. Navigate to the directory where you saved the file
-7. Type `python hello.py` to run the program
-8. The program will print "Hello, World!" to the console
-<----------------------------------------------------------------THANK YOU---------------------------------------------------------->
+📅 **HISTORY OF PYTHON**
+- 🧑‍💻 Invented in 1991 by Guido van Rossum  
+- 🐍 Initially called "Python" (not "Python programming language")  
+- 🔢 First version was Python 0.9.1  
+- 🚀 Python 1.0 released in 1994  
+- 🛠️ Python 2.0 released in 2000  
+- 🎉 Python 3.0 released in 2008  
+- 🆕 Python 3.9 is the latest version  
+- 💡 Python is a high-level, interpreted language  
+- 🔄 Dynamically typed  
+
+💎 **FEATURES OF PYTHON**
+- ✅ Easy to learn  
+- ⚡ Fast development  
+- 🎯 High-level language  
+- 🔍 Interpreted language  
+- ♻️ Dynamic typing  
+- 🧱 Object-oriented  
+- 📚 Extensive libraries  
+- 🖥️ Cross-platform  
+- 🆓 Open-source  
+- 🌍 Large community  
+
+🛠️ **USE CASES OF PYTHON**
+- 🌐 Web development  
+- 📊 Data analysis and science  
+- 🤖 Machine learning  
+- 🤖 Automation  
+- 🔬 Scientific computing  
+- 🎮 Game development  
+- 🌐 Network programming  
+
+<---------------------- 🔧 INSTALLATION OF PYTHON AND IDE ---------------------->
+
+1️⃣ Download the Python installer from the official website  
+2️⃣ Run the installer and follow setup instructions  
+3️⃣ Choose installation location and components  
+4️⃣ Install the Python interpreter, IDLE, and tools  
+5️⃣ Choose a code editor (e.g., PyCharm, VS Code)  
+6️⃣ Install `pip` (package manager)  
+7️⃣ Open terminal and check version with: `python --version`  
+8️⃣ Install extra packages as needed  
+9️⃣ Set up a virtual environment for project isolation  
+🔟 Begin writing Python code using an IDE or text editor  
+
+<---------------------- 🚀 FIRST PROGRAM IN PYTHON ---------------------->
+
+📄 Steps to run your first Python program:
+1️⃣ Open a text editor or IDE  
+2️⃣ Write the following code:  
+```python
+print("Hello, World!")
+```  
+3️⃣ Save the file as `hello.py`  
+4️⃣ Open a terminal or command prompt  
+5️⃣ Navigate to the file location  
+6️⃣ Run with: `python hello.py`  
+✅ You should see: `Hello, World!` printed to the screen  
+
+<-------------------------------------------------- 🙏 THANK YOU 🙏 --------------------------------------------------->
