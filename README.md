@@ -25,64 +25,86 @@ This repository offers a structured Python learning journey, starting from the f
 
 ### 🟢 Day 1: Hello World & Setup
   - Installing Python, IDEs, print()
-  - description of hello world in module DAY-1, [*click here for DAY-1.TXT*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.TXT)
+  - **Topics Covered:**
+    - Introduction to Python
+    - Setting up the environment
+    - Writing the first print statement
+  - description of hello world in module DAY-1,
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.TXT)
   
 ### 🔵 Day 2: Pip and Modules
   - Pip(Python Package Installer)
   - Module
-  - [*Pip and Modules*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt)
-  - [*Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
+  - **Topics Covered:**
+    - Installing external packages using pip
+    - Understanding and using Python modules
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)
   
 ### 🟣 Day 3: First Program
   - First Program
+  - **Topics Covered:**
+    - Writing and running a Python script
+    - Understanding script execution
   - documentation of first program
-  - [*First_Program*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt)
-  - code of first program
-  - [*First_Program*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py)
 
 ### 🟠 Day 4: Comments, Escaping Sequence Character
   - Comments
   - Escaping Sequence Character
+  - **Topics Covered:**
+    - Writing single-line and multi-line comments
+    - Using escape sequences in strings
   - document for Comments, Escaping Sequence Character, Print Statement
-  - [*Comments, Escaping Sequence Character*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt)
-  - code for Comments, Escaping Sequence Character, Print Statement
-  - [*Comments, Escaping Sequence Character*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)
   
 ### 🟡 Day 5: Variables & Data Types
   - Variables
   - Data Types
+  - **Topics Covered:**
+    - Declaring and initializing variables
+    - Understanding data types in Python
   - documentation for Variables and Data Types
-  - [*Variables and Data Types*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt)
-  - code for Variables and Data Types
-  - [*Variables and Data Types*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)
  
 ### 🔴 Day 6: Operators
   - Operators
+  - **Topics Covered:**
+    - Arithmetic, comparison, logical, and assignment operators
+    - Building a basic calculator
   - documentation for Calculator Exercise
-  - [*Calculator Exercise*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt)
-  - code for Calculator Exercise
-  - [*Calculator Exercise*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)
 
 ### 🟤 Day 7: Type Casting
   - Implicit and Explicit Type Casting
+  - **Topics Covered:**
+    - Type conversion with examples
+    - Distinction between implicit and explicit casting
   - documentation for Type Casting
-  - [*Type-Casting*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.txt)
-  - code for Type Casting
-  - [*Type-Casting*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)
 
 ### 🟩 Day 8: Scanner
   - Scanner
+  - **Topics Covered:**
+    - Taking user input using `input()`
+    - Converting input to desired data types
   - documentation for Scanner
-  - [*Scanner*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.txt)
-  - code for Scanner
-  - [*Scanner*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)
 
 ### 🟧 Day 9: Strings
   - Strings
+  - **Topics Covered:**
+    - String declaration and manipulation
+    - Common string operations and methods
   - documentation for Strings
-  - [*Strings*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.txt)
-  - code for Strings
-  - [*Strings*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)
 
 ---
 
