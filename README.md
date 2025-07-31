@@ -19,6 +19,7 @@ This repository offers a structured Python learning journey, starting from the f
   - [🟤 Day 7: Type Casting](#-day-7-type-casting)
   - [🟩 Day 8: Scanner](#-day-8-scanner)
   - [🟧 Day 9: Strings](#-day-9-strings)
+  - [🔹 Day 10: String Slicing and Operations](#-day-10-string-slicing-and-operations)
 - [🔧 Prerequisites](#-prerequisites)
 
 ## 📘 Module 1
@@ -97,6 +98,15 @@ This repository offers a structured Python learning journey, starting from the f
     - Common string operations and methods
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)
+
+### 🔹 Day 10: String Slicing and Operations
+  - String Slicing
+  - String Operations
+  - **Topics Covered:**
+    - Extracting substrings using slicing
+    - String concatenation, repetition, and membership tests
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/DAY-10.txt)
+  - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/Stringop.py)
 
 ---
 
