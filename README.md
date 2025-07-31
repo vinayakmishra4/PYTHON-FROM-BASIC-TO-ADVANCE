@@ -29,7 +29,6 @@ This repository offers a structured Python learning journey, starting from the f
     - Introduction to Python
     - Setting up the environment
     - Writing the first print statement
-  - description of hello world in module DAY-1,
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.TXT)
   
 ### 🔵 Day 2: Pip and Modules
@@ -46,7 +45,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Writing and running a Python script
     - Understanding script execution
-  - documentation of first program
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py)
 
@@ -56,7 +54,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Writing single-line and multi-line comments
     - Using escape sequences in strings
-  - document for Comments, Escaping Sequence Character, Print Statement
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)
   
@@ -66,7 +63,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Declaring and initializing variables
     - Understanding data types in Python
-  - documentation for Variables and Data Types
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)
  
@@ -75,7 +71,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Arithmetic, comparison, logical, and assignment operators
     - Building a basic calculator
-  - documentation for Calculator Exercise
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)
 
@@ -84,7 +79,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Type conversion with examples
     - Distinction between implicit and explicit casting
-  - documentation for Type Casting
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)
 
@@ -93,7 +87,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - Taking user input using `input()`
     - Converting input to desired data types
-  - documentation for Scanner
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)
 
@@ -102,7 +95,6 @@ This repository offers a structured Python learning journey, starting from the f
   - **Topics Covered:**
     - String declaration and manipulation
     - Common string operations and methods
-  - documentation for Strings
   - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.txt)
   - 💻 **Code:** [*View Code*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)
 
