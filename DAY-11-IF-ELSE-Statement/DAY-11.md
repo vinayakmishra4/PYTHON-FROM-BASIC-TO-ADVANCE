@@ -133,30 +133,6 @@ if a < b and b < 20:
     print("Both conditions are True")
 ```
 
----
-
-## 🧪 Practice Questions
-
-Try solving these:
-
-1. **Even or Odd Checker**
-
-   * Input a number → print if it's even or odd.
-2. **Positive, Negative, or Zero**
-
-   * Input a number → print the result.
-3. **Age Group Checker**
-
-   * Input age → classify as Child (<13), Teen (13–19), Adult (20+).
-4. **Compare Two Numbers**
-
-   * Input two numbers → print the greater one.
-5. **Password Checker**
-
-   * Check if the entered password matches the stored one.
-
----
-
 ## ✅ Summary
 
 | Concept      | Description                                   |
