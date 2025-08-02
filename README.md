@@ -30,7 +30,7 @@ This repository offers a structured Python learning journey, starting from the f
     - Introduction to Python
     - Setting up the environment
     - Writing the first print statement
-  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.TXT)
+  - 📄 **Notes:** [*View Notes*](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.md)
   
 ### 🔵 Day 2: Pip and Modules
   - Pip(Python Package Installer)
