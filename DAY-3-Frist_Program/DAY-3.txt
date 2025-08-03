@@ -1,9 +1,0 @@
-<------------------------------------------------PYTHON DAY-3------------------------------------>
-print() function:-
-print() function is used to print the output of a program. It can be used to print a
-string, a number, a list, a dictionary, etc.
-Example:-
-print("Hello, World!")
-print(123)
-print([1, 2, 3])
-<----------------------------------------------------------------THANK YOU---------------------------------------------------------->
