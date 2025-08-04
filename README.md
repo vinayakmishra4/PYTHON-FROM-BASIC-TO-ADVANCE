@@ -124,7 +124,7 @@
 🔍 Cleaner alternative to long `if-elif-else` chains
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)  
-💻 [Code Example](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)
 
 ---
 
