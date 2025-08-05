@@ -99,7 +99,3 @@ c = True
 | ------------ | ------------ | ------------------ | ---------------------- |
 | **Implicit** | Python       | ✅ Yes              | `int + float` → float  |
 | **Explicit** | Developer    | ⚠️ Sometimes risky | `str(100)`, `int("5")` |
-
----
-
-Let me know if you'd like a practice quiz or exercises!
