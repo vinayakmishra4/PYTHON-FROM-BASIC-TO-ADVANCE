@@ -51,6 +51,7 @@ Welcome to **"Python From Basic to Advanced"** — a daily structured Python roa
 | 🔁 Day 14 | For Loop | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py) |
 | 🔁 Day 15 | While Loop | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py) |
 | 🔂 Day 16 | Break and Continue | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py) |
+| 🧮 Day 17 | Functions | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-17-Functions) |
 
 📌 *More days coming soon… Stay tuned!*
 
