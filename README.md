@@ -15,21 +15,30 @@ Welcome to **"Python From Basic to Advanced"** — a daily structured Python roa
 
 ---
 
-## 🗂️ Table of Contents
+## 🗂️ Table Content
 
-| Section         | Link                                                 |
-|----------------|-------------------------------------------------------|
-| 📖 About        | [About](#-about)                                      |
-| 📚 Contents     | [Table of Contents](#️-table-of-contents)             |
-| 📦 Modules      | [Modules](#-modules)                                  |
-| 🧑‍🏫 Prerequisites | [Prerequisites](#-prerequisites)                     |
-| 🤝 Contributing  | [Contributing](#-contributing)                       |
-| 📄 License      | [License](#-license)                                  |
-| 📬 Stay Connected | [Stay Connected](#-stay-connected)                  |
+| Section        | Link                                                   |
+|----------------|--------------------------------------------------------|
+| About          | [About](#-about)                                       |
+| Modules 📅     | [Modules 📅](#modules-📅)                              |
+| Prerequisites  | [Prerequisites](#-prerequisites)                       |
+| Contributing   | [Contributing](#-contributing)                         |
+| License        | [License](#-license)                                   |
+| Stay Connected | [Stay Connected](#-stay-connected)                     |
 
 ---
 
-## 📦 Modules
+## 🗂️ Modules 📅
+
+Below is an overview of all available modules, organized by phases.
+
+### 🔍 Phase Overview
+
+| Phase   | Duration    | Link                                              |
+|---------|-------------|---------------------------------------------------|
+| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#🧰-phase-1--python-fundamentals-days-1–20)         |
+---
+
 
 ### 🧰 Phase 1 – Python Fundamentals (Days 1–20)
 
@@ -53,6 +62,13 @@ Welcome to **"Python From Basic to Advanced"** — a daily structured Python roa
 | 🔂 Day 16  | Break and Continue        | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py) |
 
 📌 *More days coming soon… Stay tuned!*
+
+### 🔍 Phase 2 – Intermediate Python (Coming Soon)
+
+| Day        | Topic                     | Notes  | Code  |
+|------------|---------------------------|--------|-------|
+| 🚧 Day 21  | Placeholder Topic         | -      | -     |
+| 🚧 Day 22  | Placeholder Topic         | -      | -     |
 
 ---
 
