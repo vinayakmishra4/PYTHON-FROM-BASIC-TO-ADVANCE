@@ -22,7 +22,7 @@ Welcome to **🐍 "Python From Basic to Advanced"** — your **daily dose of Pyt
 | Section        | Link                                                   |
 |----------------|--------------------------------------------------------|
 | About          | [About](#-about)                                       |
-| Modules 📅     | [Modules 📅](#modules)                              |
+| Modules 📅     | [Modules 📅](#Modules)                              |
 | Prerequisites  | [Prerequisites](#-prerequisites)                       |
 | Contributing   | [Contributing](#-contributing)                         |
 | License        | [License](#-license)                                   |
