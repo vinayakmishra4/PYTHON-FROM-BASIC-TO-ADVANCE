@@ -34,7 +34,9 @@ Below is an overview of all available modules, organized by phases.
 
 ### 🔍 Phase Overview
 
-- [Phase 1: Days 1–20](#-phase-1-days-1–20)
+| Phase   | Duration    | Link                                              |
+|---------|-------------|---------------------------------------------------|
+| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#-phase-1-days-1–20)         |
 ---
 
 ### 🧰 Phase 1 – Python Fundamentals (Days 1–20)
