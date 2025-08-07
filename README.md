@@ -6,7 +6,7 @@
 ## 📖 About
 
 Welcome to **🐍 "Python From Basic to Advanced"** — your **daily dose of Python mastery**, perfect for **beginners and intermediates**!  
-🎯 Here's what you'll gain:
+🎯 What you'll gain:
 
 - 🔍 **Crystal-clear fundamentals** — understand Python from the ground up  
 - 💡 **Hands-on experience** — write and test real code daily  
@@ -22,7 +22,7 @@ Welcome to **🐍 "Python From Basic to Advanced"** — your **daily dose of Pyt
 | Section        | Link                                                   |
 |----------------|--------------------------------------------------------|
 | About          | [About](#-about)                                       |
-| Modules 📅     | [Modules 📅](#-modules-📅)                              |
+| Modules 📅     | [Modules 📅](#modules-)                              |
 | Prerequisites  | [Prerequisites](#-prerequisites)                       |
 | Contributing   | [Contributing](#-contributing)                         |
 | License        | [License](#-license)                                   |
@@ -36,16 +36,16 @@ Below is an overview of all available modules, organized by phases.
 
 | Phase   | Duration    | Link                                              |
 |---------|-------------|---------------------------------------------------|
-| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#-phase-1-days-1–20)         |
+| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#phase-1--python-fundamentals-days-1–20)         |
 ---
 
-### 🧰 Phase 1 – Python Fundamentals (Days 1–20)
+## 🧰 Phase 1 – Python Fundamentals (Days 1–20)
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
 | 🟢 Day 1 | Hello World & Setup | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.md) | - |
-| 🔵 Day 2 | Pip and Modules | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py) |
-| 🟣 Day 3 | First Program | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py) |
+| 🔵 Day 2 | Pip and Modules | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pipmod.py) |
+| 🟣 Day 3 | First Program | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/DAY-3.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/FirstProgram.py) |
 | 🟠 Day 4 | Comments & Escape Sequences | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py) |
 | 🟡 Day 5 | Variables & Data Types | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py) |
 | 🔴 Day 6 | Operators | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py) |
