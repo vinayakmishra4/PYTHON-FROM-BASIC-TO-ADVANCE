@@ -1,51 +1,42 @@
-# 🐍 Python Learning: From Basics to Advanced 🚀  
-### 👨‍🎓 Learn daily. Code smart. Level up. 💻✨
+# 🐍 Python Learning: From Basics to Advanced 🚀
 
 ---
 
 ## 📖 About
 
-Welcome to **🐍 "Python From Basic to Advanced"** — your **daily dose of Python mastery**, perfect for **beginners and intermediates**!  
-🎯 What you'll gain:
+Welcome to **"Python From Basic to Advanced"** — a daily structured Python roadmap designed for beginners and intermediates alike. This guide helps you:
 
-- 🔍 **Crystal-clear fundamentals** — understand Python from the ground up  
-- 💡 **Hands-on experience** — write and test real code daily  
-- 🧑‍💼 **Industry-ready** — prep for interviews, automation tasks & real-world projects  
-- 📆 **Consistent learning** — achievable daily tasks (just 30–60 mins!)
+- 🧠 Understand Python fundamentals clearly  
+- 🛠️ Gain practical coding experience  
+- 💼 Prepare for real-world scenarios like interviews, automation, and projects  
+- 🎯 Learn consistently with bite-sized daily goals  
 
 > 👨‍💻 **Just 30–60 minutes a day** can turn you into a confident Python developer.
 
 ---
 
-## 🗂️ Table Content
+## 🗂️ Table of Contents
 
-| Section        | Link                                                   |
-|----------------|--------------------------------------------------------|
-| About          | [About](#-about)                                       |
-| Modules 📅     | [Modules 📅](#Modules)                              |
-| Prerequisites  | [Prerequisites](#-prerequisites)                       |
-| Contributing   | [Contributing](#-contributing)                         |
-| License        | [License](#-license)                                   |
-| Stay Connected | [Stay Connected](#-stay-connected)                     |
+- [About](#-about)
+- [Table of Contents](#️-table-of-contents)
+- [Modules](#-modules)
+- [Phase 1: Days 1–20](#-phase-1-days-1–20)
+- [Prerequisites](#-prerequisites)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Stay Connected](#-stay-connected)
 
-## 🗂️ Modules 📅
-
-Below is an overview of all available modules, organized by phases.
-
-### 🔍 Phase Overview
-
-| Phase   | Duration    | Link                                              |
-|---------|-------------|---------------------------------------------------|
-| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#phase-1--python-fundamentals-days-120)         |
 ---
 
-## 🧰 Phase 1 – Python Fundamentals (Days 1–20)
+## 📦 Modules
+
+### 🧰 Phase 1 – Python Fundamentals (Days 1–20)
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
 | 🟢 Day 1 | Hello World & Setup | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.md) | - |
-| 🔵 Day 2 | Pip and Modules | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pipmod.py) |
-| 🟣 Day 3 | First Program | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/DAY-3.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/FirstProgram.py) |
+| 🔵 Day 2 | Pip and Modules | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py) |
+| 🟣 Day 3 | First Program | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/DAY-3.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-Frist_Program/FristProgram.py) |
 | 🟠 Day 4 | Comments & Escape Sequences | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py) |
 | 🟡 Day 5 | Variables & Data Types | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py) |
 | 🔴 Day 6 | Operators | [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.txt) | [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py) |
@@ -101,11 +92,3 @@ If you found this project helpful:
 - 🐦 Follow for updates
 
 Happy Coding! 🚀
-
----
-### 🚀 Keep Going!
-
-Learning Python is a journey — stay consistent, practice often, and don’t be afraid to break things!  
-📚 New lessons added frequently — so **watch this space** and **keep coding**.  
-  
-— Happy Learning! 🐍💪
