@@ -17,13 +17,15 @@ Welcome to **"Python From Basic to Advanced"** — a daily structured Python roa
 
 ## 🗂️ Table of Contents
 
-- [About](#-about)
-- [Table of Contents](#️-table-of-contents)
-- [Modules](#-modules)
-- [Prerequisites](#-prerequisites)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Stay Connected](#-stay-connected)
+| Section         | Link                                  |
+|----------------|----------------------------------------|
+| About           | [About](#-about)                       |
+| Table of Contents | [Table of Contents](#️-table-of-contents) |
+| Modules         | [Modules](#-modules)                   |
+| Prerequisites   | [Prerequisites](#-prerequisites)       |
+| Contributing    | [Contributing](#-contributing)         |
+| License         | [License](#-license)                   |
+| Stay Connected  | [Stay Connected](#-stay-connected)     |
 
 ---
 
