@@ -22,7 +22,7 @@ Welcome to **🐍 "Python From Basic to Advanced"** — your **daily dose of Pyt
 | Section        | Link                                                   |
 |----------------|--------------------------------------------------------|
 | About          | [About](#-about)                                       |
-| Modules 📅     | [Modules 📅](#modules-)                              |
+| Modules 📅     | [Modules 📅](#modules)                              |
 | Prerequisites  | [Prerequisites](#-prerequisites)                       |
 | Contributing   | [Contributing](#-contributing)                         |
 | License        | [License](#-license)                                   |
@@ -36,7 +36,7 @@ Below is an overview of all available modules, organized by phases.
 
 | Phase   | Duration    | Link                                              |
 |---------|-------------|---------------------------------------------------|
-| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#phase-1--python-fundamentals-days-1–20)         |
+| Phase 1 | Days 1–20   | [Phase 1: Days 1–20](#phase-1--python-fundamentals-days-120)         |
 ---
 
 ## 🧰 Phase 1 – Python Fundamentals (Days 1–20)
