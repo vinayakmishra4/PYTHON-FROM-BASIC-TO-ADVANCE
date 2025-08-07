@@ -20,7 +20,6 @@ Welcome to **"Python From Basic to Advanced"** — a daily structured Python roa
 - [About](#-about)
 - [Table of Contents](#️-table-of-contents)
 - [Modules](#-modules)
-- [Phase 1: Days 1–20](#-phase-1-days-1–20)
 - [Prerequisites](#-prerequisites)
 - [Contributing](#-contributing)
 - [License](#-license)
