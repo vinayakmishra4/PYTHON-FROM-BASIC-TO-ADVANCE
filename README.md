@@ -1,66 +1,78 @@
 <h1 align="center">🐍🚀 20-Day Python Challenge: From Zero to Hero! 🚀🐍</h1>
+
 <p align="center"><b><span style="font-size:20px">🌈 Master Python Basics to Advanced • Fun • Fast • Practical</span></b></p>
-<p align="center"><a href="#-start-your-python-journey-today" style="font-size:18px; background-color:#4B8BBE; padding:10px 20px; border-radius:8px; text-decoration:none; color:white;"><b>🌟 Start Learning Now!</b></a></p>
+
+<p align="center">
+  <a href="#-start-your-python-journey-today" style="font-size:18px; background-color:#4B8BBE; padding:10px 20px; border-radius:8px; text-decoration:none; color:white;">
+    <b>🌟 Start Learning Now!</b>
+  </a>
+</p>
+
 <p align="center"><i>🔥 Your fast-track journey to Python mastery — beginner to pro, with code you'll love to write! 🔥</i></p>
-<hr>
+
+<hr />
 
 # 🌟🚀 Master Python in 20+ Days 🚀🌟  
 ### 💻 A Beginner-Friendly, Hands-On Roadmap to Python Mastery 🔥
 
 Welcome to the **Ultimate Python Learning Challenge** – perfect for beginners and those looking to solidify their fundamentals.  
 This course is built to help you go from **zero to Python hero** with:
-- 🧠 Daily bite-sized lessons
-- 💡 Hands-on coding tasks
-- 🔍 Real-world examples
-- 🎯 Mini projects to showcase your skills
 
-<!-- Badges Section -->
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)
-![Project-Based](https://img.shields.io/badge/Approach-Project--Based-orange?style=for-the-badge)
+- 🧠 **Daily bite-sized lessons**  
+- 💡 **Hands-on coding tasks**  
+- 🔍 **Real-world examples**  
+- 🎯 **Mini projects to showcase your skills**
+
+---
+
+### 🏷️ **Badges**
+
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)  
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)  
+![Project-Based](https://img.shields.io/badge/Approach-Project--Based-orange?style=for-the-badge)  
 ![Daily Progress](https://img.shields.io/badge/Commitment-Daily--Learning-yellow?style=for-the-badge)
 
 ---
 
-### 📚 Content Overview – Direct Access to Each Section
+## 📚 Content Overview – Direct Access to Each Section
 
-| Section | Description |
-|--------|-------------|
-| **[🧭 Index](#-index--jump-to-any-topic-quickly)** | Jump to any topic quickly |
-| **[⚙️ Prerequisites](#️-prerequisites)** | Tools & setup required |
-| **[🎯 Why Choose This Course?](#-why-choose-this-course)** | Course benefits & structure |
-| **[🔗 Useful Resources](#-useful-resources)** | Extra learning materials |
-| **[🏁 Ready to Code Python — The Smart Way!](#-ready-to-code-python--the-smart-way)** | Final motivation & tips |
-| **[🌱 Start Your Python Journey Today!](#-start-your-python-journey-today)** | Get started with confidence |
-| **[🌟 Quote](#-code-is-like-humor-when-you-have-to-explain-it-its-bad--cory-house-)** | Inspirational coding quote |
+| Section                             | Description                         |
+|-----------------------------------|-----------------------------------|
+| **[🧭 Index](#-index--jump-to-any-topic-quickly)**                 | Jump to any topic quickly          |
+| **[⚙️ Prerequisites](#️-prerequisites)**                          | Tools & setup required             |
+| **[🎯 Why Choose This Course?](#-why-choose-this-course)**         | Course benefits & structure        |
+| **[🔗 Useful Resources](#-useful-resources)**                      | Extra learning materials           |
+| **[🏁 Ready to Code Python — The Smart Way!](#-ready-to-code-python--the-smart-way)** | Final motivation & tips            |
+| **[🌱 Start Your Python Journey Today!](#-start-your-python-journey-today)** | Get started with confidence        |
+| **[🌟 Quote](#-code-is-like-humor-when-you-have-to-explain-it-its-bad--cory-house-)** | Inspirational coding quote         |
 
 ---
 
-## 🧭 Index – Jump to Any Topic Quickly
+## 🧭 **Index – Jump to Any Topic Quickly**
 
 ---
 
 ## 🔰 PHASE 1: Python Fundamentals (Day 1 - Day 17)
 
-| Day      | Topic                        |
-|----------|------------------------------|
-| ✅ Day 1 | Hello World & Setup           |
-| ✅ Day 2 | Pip and Modules               |
-| ✅ Day 3 | First Program                |
-| ✅ Day 4 | Comments & Escape Sequences  |
-| ✅ Day 5 | Variables & Data Types        |
-| ✅ Day 6 | Operators                   |
-| ✅ Day 7 | Type Casting                |
-| ✅ Day 8 | Input (Scanner)             |
-| ✅ Day 9 | Strings                    |
-| ✅ Day 10| String Slicing & Operations |
-| ✅ Day 11| IF-ELSE Statements          |
-| ✅ Day 12| Mini Exercise               |
-| ✅ Day 13| Match-Case                 |
-| ✅ Day 14| For Loop                   |
-| ✅ Day 15| While Loop                 |
-| ✅ Day 16| Break and Continue          |
-| ✅ Day 17| Functions                  |
+| Day       | Topic                          |
+|-----------|--------------------------------|
+| ✅ Day 1  | Hello World & Setup             |
+| ✅ Day 2  | Pip and Modules                 |
+| ✅ Day 3  | First Program                  |
+| ✅ Day 4  | Comments & Escape Sequences    |
+| ✅ Day 5  | Variables & Data Types          |
+| ✅ Day 6  | Operators                     |
+| ✅ Day 7  | Type Casting                  |
+| ✅ Day 8  | Input (Scanner)               |
+| ✅ Day 9  | Strings                      |
+| ✅ Day 10 | String Slicing & Operations   |
+| ✅ Day 11 | IF-ELSE Statements            |
+| ✅ Day 12 | Mini Exercise                 |
+| ✅ Day 13 | Match-Case                   |
+| ✅ Day 14 | For Loop                     |
+| ✅ Day 15 | While Loop                   |
+| ✅ Day 16 | Break and Continue            |
+| ✅ Day 17 | Functions                   |
 
 📌 *More days coming soon… Stay tuned!*
 
@@ -138,53 +150,85 @@ This course is built to help you go from **zero to Python hero** with:
 * ✅ **Goal:** Print greeting based on the current time duration  
   💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-12-EX-2/ex2.py)
 
----
+### DAY 13: Match Case Statement
 
-## ⚙️ Prerequisites
+* ✅ **Goal:** Understand the match case statement in Python
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)
 
-* ✅ Python 3.8 or above
-* ✅ Code Editor (VS Code / PyCharm)
-* ✅ Basic Command Line Skills
+### DAY 14: FOR LOOPS
+* ✅ **Goal:** Understand the for loop in Python
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md)
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py)
 
----
+### DAY 15: WHILE LOOPS
+* ✅ **Goal:** Understand the while loop in Python
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md)
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py)
 
-## 🎯 Why Choose This Course?
+### DAY 16: BREAK & CONTINUE
+* ✅ **Goal:** Understand the break and continue statements in Python
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py)
 
-* 📆 Structured daily progress to build strong habits
-* 🧠 Hands-on learning with clear examples and code
-* 🗃️ Well-organized notes for quick revision
-* 💼 Ideal for Automation, Data Science, and Interview Preparation
-* 🤝 Beginner-friendly explanations with real-world relevance
-* 🛠️ Learn by doing, not just reading
-* 📈 Build confidence with progressive difficulty
-
----
-
-## 🔗 Useful Resources
-
-* 📘 [Python Official Documentation](https://docs.python.org/3/)
-* 🐙 [Follow Me on GitHub](https://github.com/vinayakmishra4)
-* ⭐️ Star the repo and share with your fellow coders!
+### DAY 17:Functions
+* ✅ **Goal:** Understand the functions in Python
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md)
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/Primenumber.py)
 
 ---
 
-## 🏁 Ready to Code Python — The Smart Way! 💪🐍
+## ⚙️ **Prerequisites**
 
-> 💬 *Every expert was once a beginner — keep going!*
+* ✅ Python 3.8 or above  
+* ✅ Code Editor (VS Code / PyCharm)  
+* ✅ Basic Command Line Skills  
+
 ---
 
-## 🌱 Start Your Python Journey Today!
+## 🎯 **Why Choose This Course?**
+
+* 📆 Structured daily progress to build strong habits  
+* 🧠 Hands-on learning with clear examples and code  
+* 🗃️ Well-organized notes for quick revision  
+* 💼 Ideal for Automation, Data Science, and Interview Preparation  
+* 🤝 Beginner-friendly explanations with real-world relevance  
+* 🛠️ Learn by doing, not just reading  
+* 📈 Build confidence with progressive difficulty  
+
+---
+
+## 🔗 **Useful Resources**
+
+* 📘 [Python Official Documentation](https://docs.python.org/3/)  
+* 🐙 [Follow Me on GitHub](https://github.com/vinayakmishra4)  
+* ⭐️ Star the repo and share with your fellow coders!  
+
+---
+
+## 🏁 **Ready to Code Python — The Smart Way!** 💪🐍
+
+> 💬 *Every expert was once a beginner — keep going!*  
+
+---
+
+## 🌱 **Start Your Python Journey Today!**
 
 Don’t just learn Python — master it with confidence. Star the repo, commit daily, and watch your skills grow.
 
-👨‍💻 Happy Coding! 🚀
+👨‍💻 **Happy Coding!** 🚀
 
 ---
-<h2 align="center">🎉 You're Just 20 Days Away from Python Confidence! 🎉</h2>
+
 <p align="center">Don’t stop now — star ⭐ the repo, share with friends 👨‍👩‍👧‍👦, and commit to code daily! 🧑‍💻</p>
+
 ---
+
 <h2 align="center">🎯 Stay Consistent, Code Relentlessly! 💻🔥</h2>
+
 <p align="center">🚀 Share your Python wins, help others, and become a coding inspiration! 🌟</p>
+
 ---
+
 > 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
 > — *Cory House*
