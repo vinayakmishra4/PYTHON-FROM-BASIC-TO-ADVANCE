@@ -73,6 +73,7 @@ This course is built to help you go from **zero to Python hero** with:
 | ✅ Day 15 | While Loop                   |
 | ✅ Day 16 | Break and Continue            |
 | ✅ Day 17 | Functions                   |
+| ✅ Day 18 | Function Arguments            |
 
 📌 *More days coming soon… Stay tuned!*
 
@@ -171,11 +172,18 @@ This course is built to help you go from **zero to Python hero** with:
   📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)
   💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py)
 
-### DAY 17:Functions
-* ✅ **Goal:** Understand the functions in Python
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md)
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/Primenumber.py)
+### ​ Day 17: Functions
 
+* ✅ **Goal:** Dive into creating and calling Python functions  
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/...)  
+
+---
+
+### ​ Day 18: Function Arguments
+
+*  **Goal:** Explore arguments in Python functions (positional, keyword, default, varargs)  
+  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
+  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)
 ---
 
 ## ⚙️ **Prerequisites**
