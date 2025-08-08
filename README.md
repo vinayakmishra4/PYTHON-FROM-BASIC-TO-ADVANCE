@@ -154,36 +154,37 @@ This course is built to help you go from **zero to Python hero** with:
 ### DAY 13: Match Case Statement
 
 * ✅ **Goal:** Understand the match case statement in Python
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)
 
 ### DAY 14: FOR LOOPS
 * ✅ **Goal:** Understand the for loop in Python
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md)
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py)
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md)
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py)
 
 ### DAY 15: WHILE LOOPS
 * ✅ **Goal:** Understand the while loop in Python
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md)
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py)
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md)
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py)
 
 ### DAY 16: BREAK & CONTINUE
 * ✅ **Goal:** Understand the break and continue statements in Python
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py)
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py)
 
 ### ​ Day 17: Functions
 
 * ✅ **Goal:** Dive into creating and calling Python functions  
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/...)  
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md)  
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/Primenumber.py)
 
 ---
 
 ### ​ Day 18: Function Arguments
 
-*  **Goal:** Explore arguments in Python functions (positional, keyword, default, varargs)  
-  📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
-  💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)
+* **Goal:** Explore arguments in Python functions (positional, keyword, default, varargs)  
+  - 📄 **Notes:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
+  - 💻 **Code:** [Click Here](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)
 ---
 
 ## ⚙️ **Prerequisites**
