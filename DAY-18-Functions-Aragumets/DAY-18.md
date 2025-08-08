@@ -33,14 +33,14 @@ def greet(name, age):
 greet("Alice", 25)
 
 
-⸻
+---
 
 2️⃣ Keyword Arguments
 
 greet(age=30, name="Bob")
 
 
-⸻
+---
 
 3️⃣ Default Arguments
 
@@ -50,7 +50,7 @@ def greet(name, age=18):
 greet("Charlie")  # age defaults to 18
 
 
-⸻
+---
 
 4️⃣ Variable-length Arguments
 
@@ -66,7 +66,7 @@ def profile(**info):
 profile(name="David", age=40, city="New York")
 
 
-⸻
+---
 
 🔧 Why Use Function Arguments?
 	•	🚀 Pass dynamic data to functions.
@@ -74,7 +74,7 @@ profile(name="David", age=40, city="New York")
 	•	🎯 Handle optional and flexible inputs with ease.
 	•	💡 Build clean, readable, and maintainable code.
 
-⸻
+---
 
 👍 Advantages
 	•	🔄 Highly reusable: One function serves many purposes.
@@ -82,7 +82,7 @@ profile(name="David", age=40, city="New York")
 	•	🔍 Improved readability: Keyword arguments clarify intent.
 	•	🔗 Supports complex scenarios: Variable arguments manage unknown inputs.
 
-⸻
+---
 
 👎 Disadvantages
 	•	⚠️ Errors from wrong inputs: Too many or too few arguments cause exceptions.
@@ -90,7 +90,7 @@ profile(name="David", age=40, city="New York")
 	•	🐞 Debugging complexity: Too many variable args may hide bugs.
 	•	⚠️ Mutable default pitfalls: Using mutable objects as defaults can cause unexpected side-effects.
 
-⸻
+---
 
 🌟 Pro Tips
 	•	✅ Prefer keyword arguments for clarity.
@@ -98,6 +98,6 @@ profile(name="David", age=40, city="New York")
 	•	🚫 Avoid mutable types (like list, dict) as default values.
 	•	⚖️ Use *args and **kwargs wisely — don’t overcomplicate function signatures.
 
-⸻
+---
 
 Keep practicing and watch your functions become powerful, flexible, and clean! 💪🐍
