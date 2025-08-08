@@ -1,5 +1,3 @@
-Got it! Here’s a spruced-up, visually engaging version of your DAY-17 Function Arguments markdown content, with emojis, formatting, and clearer emphasis for better readability and appeal:
-
 # 🚀 DAY-17: Function Arguments in Python
 
 ---
