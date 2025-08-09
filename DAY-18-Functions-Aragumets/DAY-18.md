@@ -28,7 +28,6 @@ Python supports several types of arguments that make your functions *adaptable* 
 
 ```python
 def greet(name, age):
-    print(f"Hello {name}, you are {age} years old.")
 
 greet("Alice", 25)
 ```

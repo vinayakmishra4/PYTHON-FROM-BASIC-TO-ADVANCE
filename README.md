@@ -56,7 +56,7 @@ This course is designed to take you from **zero to Python hero** with:
 
 ## 🧭 **Index – Quick Jump to Topics**
 
-### 🔰 PHASE 1: Python Fundamentals (Day 1 - Day 17)
+### 🔰 PHASE 1: Python Fundamentals (Day 1 - Day 18)
 
 | Day      | Topic                         |
 |----------|-------------------------------|
