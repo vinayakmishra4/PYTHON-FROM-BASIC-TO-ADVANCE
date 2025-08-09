@@ -78,7 +78,7 @@ This course is designed to take you from **zero to Python hero** with:
 | ✅ Day 16| Break and Continue           |
 | ✅ Day 17| Functions                  |
 | ✅ Day 18| Function Arguments           |
-
+| **Day 19** | Summary: Review of Days 1–18 – key concepts, practice tasks, and consolidation point |
 📌 *More days coming soon… Stay tuned!*
 
 ---
@@ -190,6 +190,11 @@ This course is designed to take you from **zero to Python hero** with:
 * ✅ **Goal:** Explore arguments in Python functions (positional, keyword, default, varargs)  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)
+
+### Day 19: Summary (Review Day)
+
+* ✅ **Goal:** Consolidate your learning from **Day 1 to Day 18** — ensure you understand the fundamentals before moving forward  
+  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-(Day1%20to%20Day%2019)/DAY-19.md#day-1--introduction-to-python)
 
 ---
 
