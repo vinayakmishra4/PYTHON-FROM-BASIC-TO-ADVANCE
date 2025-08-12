@@ -229,6 +229,7 @@ This course is designed to take you from **zero to Python hero** with:
 ---
 
 ### 🧰 Day 20: My First Python Suite Project
+
 *🎯 Goal* : Apply all your Python basics to build a mini CLI tool suite!
 
 *💡 Description* :
@@ -238,7 +239,7 @@ Build your first real-world Python project — a command-line suite featuring a 
 
 ---
 
-## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 30)
+## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)
 
 ### 🟩 Day 21: Introduction to List  
 *Goal:* Understand Python lists, their syntax, and how to access elements  
