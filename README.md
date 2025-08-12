@@ -80,7 +80,16 @@ This course is designed to take you from **zero to Python hero** with:
 | ✅ Day 18| Function Arguments           |
 | ✅ Day 19| Summary: Review of Days 1–18 – key concepts, practice tasks, and consolidation point |
 
+---
+
+## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)
+
+| ✅ Day 21 | Introduction to List                       |
+
+
 *📌 More exciting days and topics coming soon… Stay tuned!*
+
+---
 
 ## 🔰 PHASE 1: Python Basics (Day 1 - Day 20)
 
@@ -211,6 +220,15 @@ This course is designed to take you from **zero to Python hero** with:
 ### 🔥 Day 19: Summary (Review Day)  
 *Goal:* Consolidate your learning from Day 1 to Day 18  
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-(Day1%20to%20Day%2019)/DAY-19.md#day-1--introduction-to-python)
+
+---
+
+## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 30)
+
+### 🟩 Day 21: Introduction to List  
+*Goal:* Understand Python lists, their syntax, and how to access elements  
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)
 
 ---
 
