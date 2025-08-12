@@ -86,7 +86,7 @@ This course is designed to take you from **zero to Python hero** with:
 
 | Day | Topic                     |
 |-----|---------------------------|
-| 21  | Introduction to List      |
+| ✅ DAY 21  | Introduction to List      |
 
 
 
