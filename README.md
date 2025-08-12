@@ -84,7 +84,10 @@ This course is designed to take you from **zero to Python hero** with:
 
 ## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)
 
-| ✅ Day 21 | Introduction to List                       |
+| Day | Topic                     |
+|-----|---------------------------|
+| 21  | Introduction to List      |
+
 
 
 *📌 More exciting days and topics coming soon… Stay tuned!*
