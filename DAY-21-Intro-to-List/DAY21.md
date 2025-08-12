@@ -10,12 +10,15 @@ A **list** is a built-in Python data structure that stores an **ordered**, **mut
 - **Heterogeneous**: Store different data types in the same list.
 - **Dynamic**: No need to predefine the size.
 
+---
 
 ## 🔧 Syntax
 
 ```python
 my_list = [item1, item2, item3]
-````
+```
+
+---
 
 ## 💡 Example Usage
 
@@ -43,19 +46,7 @@ fruits[1] = "orange"
 print(fruits)  # ['apple', 'orange', 'cherry']
 ```
 
-### 4. Useful List Methods
-
-```python
-fruits.append("grape")      # Add to end
-fruits.insert(1, "kiwi")    # Insert at index
-fruits.remove("apple")      # Remove specific item
-last = fruits.pop()         # Remove last item
-fruits.sort()               # Sort alphabetically
-fruits.reverse()            # Reverse list
-copy = fruits.copy()        # Copy list
-```
-
-### 5. Looping Through a List
+### 4. Looping Through a List
 
 ```python
 for fruit in fruits:
@@ -96,18 +87,6 @@ for fruit in fruits:
 
 ---
 
-## 🧪 Challenge Task
-
-Create a list of your 5 favorite movies. Then:
-
-1. Print the **first** and **last** movie.
-2. Replace the **third** movie with another one.
-3. **Append** a new movie at the end.
-4. **Sort** the list alphabetically.
-5. **Print** the final list.
-
----
-
 ## 📎 Next Steps
 
 * 🔁 Learn about **loops** with lists.
@@ -118,8 +97,6 @@ Create a list of your 5 favorite movies. Then:
 
 ## 📖 Additional Resources
 
-* [Python Official Docs - Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
-* [W3Schools - Python Lists](https://www.w3schools.com/python/python_lists.asp)
+* [Python Official Docs - Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)  
+* [W3Schools - Python Lists](https://www.w3schools.com/python/python_lists.asp)  
 * [Real Python - Lists](https://realpython.com/python-lists-tuples/)
-
----
