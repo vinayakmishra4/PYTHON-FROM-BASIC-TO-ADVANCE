@@ -79,6 +79,7 @@ This course is designed to take you from **zero to Python hero** with:
 | ✅ Day 17| Functions                  |
 | ✅ Day 18| Function Arguments           |
 | ✅ Day 19| Summary: Review of Days 1–18 – key concepts, practice tasks, and consolidation point |
+| ✅ Day 20| Project:- My First Python Sutie|
 
 ---
 
@@ -214,6 +215,7 @@ This course is designed to take you from **zero to Python hero** with:
 ---
 
 ### 🟪 Day 18: Function Arguments  
+
 *Goal:* Explore arguments in Python functions (positional, keyword, default, varargs)  
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)
@@ -223,6 +225,16 @@ This course is designed to take you from **zero to Python hero** with:
 ### 🔥 Day 19: Summary (Review Day)  
 *Goal:* Consolidate your learning from Day 1 to Day 18  
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-(Day1%20to%20Day%2019)/DAY-19.md#day-1--introduction-to-python)
+
+---
+
+### 🧰 Day 20: My First Python Suite Project
+*🎯 Goal* : Apply all your Python basics to build a mini CLI tool suite!
+
+*💡 Description* :
+Build your first real-world Python project — a command-line suite featuring a calculator, unit converter, and fun fact generator. This hands-on challenge wraps up Phase 1 with a powerful project to test your logic, functions, and input/output skills.
+
+[📂 GitHub Repository](https://github.com/vinayakmishra4/Project-My-Python-Suite)
 
 ---
 
