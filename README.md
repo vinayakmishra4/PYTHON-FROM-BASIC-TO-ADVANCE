@@ -85,10 +85,10 @@ This course is designed to take you from **zero to Python hero** with:
 
 ## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)
 
-| Day | Topic                     |
-|-----|---------------------------|
+| Day      | Topic                     |
+|----------|---------------------------|
 | ✅ DAY 21  | Introduction to List      |
-
+| ✅ DAY 22  | List Methods              |
 
 
 *📌 More exciting days and topics coming soon… Stay tuned!*
@@ -241,10 +241,21 @@ Build your first real-world Python project — a command-line suite featuring a 
 
 ## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)
 
+---
+
 ### 🟩 Day 21: Introduction to List  
+
 *Goal:* Understand Python lists, their syntax, and how to access elements  
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)
+
+---
+
+### 🟧 Day 22: List Methods  
+*Goal:* Master common Python list methods for manipulating and accessing list data  
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)
 
 ---
 
