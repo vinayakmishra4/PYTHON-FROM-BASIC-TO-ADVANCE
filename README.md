@@ -152,7 +152,10 @@
 
 
 </details>
-🏆 **Winner's Badge:** ![Winner Badge](https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge)
+<div align="center" style="margin: 10px 0;">
+  <h3>🏆 Winner's Badge</h3>
+  <img src="https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner Badge - Phase 1">
+</div>
 
 ---
 
@@ -181,6 +184,12 @@
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)  
   💡 Skill: Understand immutable sequences with tuples.
+
+</details>
+<div align="center" style="margin: 10px 0;">
+  <h3>🏆 Winner's Badge</h3>
+  <img src="https://img.shields.io/badge/Python%20Phase%202%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner Badge - Phase 2">
+</div>
 
 ---
 
