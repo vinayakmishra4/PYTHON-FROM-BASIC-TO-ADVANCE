@@ -1,63 +1,17 @@
-<h1 align="center">🐍🚀 <span>40-Day Python Challenge:</span> From Zero to Hero! 🚀🐍</h1>
+## 🔰 <span style="background: linear-gradient(90deg, #4CAF50, #81C784); color:white; padding:6px 12px; border-radius:6px;">PHASE 1: Python Fundamentals (Day 1 - Day 20)</span> 🌱
+<div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #F0FFF4;">
+  <p><b>📅 Duration:</b> 20 Days<br>
+  <b>🎯 Goal:</b> Learn Python basics — syntax, data types, control flow.<br>
+  <b>🛠 Outcome:</b> Write clean, functional beginner-level Python scripts.</p>
+</div>
 
-<p align="center">
-  <b><span>🌈 Master Python Basics to Advanced • Fun • Fast • Practical</span></b>
-</p>
+**Phase 1 Skills:** Variables • Data Types • Loops • Conditionals • Functions
 
-<p align="center">
-  <a href="#-start-your-python-journey-today" >
-    🌟 Start Learning Now!
-  </a>
-</p>
+**Progress:**
+![Phase 1 Progress](https://progress-bar.dev/50/?title=Phase%201&color=4CAF50)
 
-<p align="center">
-  🔥 Your fast-track journey to Python mastery — beginner to pro, with code you'll love to write! 🔥
-</p>
-
-<hr />
-
-# 🌟🚀 Master Python in 20+ Days 🚀🌟  
-### 💻 A Beginner-Friendly, Hands-On Roadmap to Python Mastery 🔥
-
-Welcome to the **Ultimate Python Learning Challenge** – perfect for beginners and those looking to solidify their fundamentals.  
-This course is designed to take you from **zero to Python hero** with:
-
-- 🧠 **Daily bite-sized lessons**  
-- 💡 **Hands-on coding tasks**  
-- 🔍 **Real-world examples**  
-- 🎯 **Mini projects to showcase your skills**
-
----
-
-### 🏷️ **Badges**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" alt="Language: Python" />  
-  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge" alt="Level: Beginner Friendly" />  
-  <img src="https://img.shields.io/badge/Approach-Project--Based-orange?style=for-the-badge" alt="Approach: Project Based" />  
-  <img src="https://img.shields.io/badge/Commitment-Daily--Learning-yellow?style=for-the-badge" alt="Commitment: Daily Learning" />
-</p>
-
----
-
-## 📚 Content Overview – Jump to Any Section
-
-| Section                               | Description                        |
-|-------------------------------------|----------------------------------|
-| **[🧭 Index](#-content-overview--jump-to-any-section)**                   | Jump to any topic quickly          |
-| **[⚙️ Prerequisites](#-prerequisites)**                              | Tools & setup required             |
-| **[🎯 Why Choose This Course?](#-why-choose-this-course)**           | Course benefits & structure        |
-| **[🔗 Useful Resources](#-useful-resources)**                        | Extra learning materials           |
-| **[🏁 Ready to Code Python — The Smart Way!](#-ready-to-code-python--the-smart-way)** | Final motivation & tips            |
-| **[🌱 Start Your Python Journey Today!](#-start-your-python-journey-today)** | Get started with confidence        |
-| **[🌟 Quote](#-code-is-like-humor-when-you-have-to-explain-it-its-bad--cory-house-)** | Inspirational coding quote         |
-
----
-
-### 🔰 PHASE 1: Python Fundamentals (Day 1 - Day 20)  
-#### Build your solid foundation in Python
-
----
+<details>
+<summary>📅 View Day-by-Day Plan for PHASE 1</summary>
 
 | **Day**  | **Description**                      | **Notes**                                                                                                                                            | **Code**                                                                                                                                          |
 |----------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -81,75 +35,28 @@ This course is designed to take you from **zero to Python hero** with:
 | **Day 18** | *Function Arguments*        | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)                           | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)                         |
 | **Day 19** | *Summary (Review Day)*      | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-(Day1%20to%20Day%2019)/DAY-19.md#day-1--introduction-to-python) |                                                                                                                                                   |
 | **Day 20** | *My First Python Suite Project* | Apply all your Python basics to build a mini CLI tool suite                                                                                          | 📄 [Notes](https://github.com/vinayakmishra4/Project-My-Python-Suite)                                                                             |
+</details>
 
 ---
 
-## 🚀🔥 PHASE 2: Intermediate Python (Day 21 – Day 40)  
+## 🚀🔥 <span style="background: linear-gradient(90deg, #FF5722, #FF8A65); color:white; padding:6px 12px; border-radius:6px;">PHASE 2: Intermediate Python (Day 21 – Day 40)</span> ⚡
+<div style="border: 2px solid #FF5722; padding: 10px; border-radius: 8px; background-color: #FFF3E0;">
+  <p><b>📅 Duration:</b> 20 Days<br>
+  <b>🎯 Goal:</b> Master data structures, file handling, and advanced Python features.<br>
+  <b>🛠 Outcome:</b> Build real-world Python projects with confidence.</p>
+</div>
 
----
+**Phase 2 Skills:** Lists • Tuples • Dictionaries • File Handling • OOP • Error Handling
 
-| **Day**  | **Description**                                                     | **Notes**                                                                                                                                                  | **Code**                                                                                                                                               |
-|----------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Day 21** | *Understand Python lists, their syntax, and how to access elements* | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)                                         | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)                                     |
-| **Day 22** | *Master common Python list methods for manipulating and accessing list data* | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)                                         | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)                                   |
+**Progress:**
+![Phase 2 Progress](https://progress-bar.dev/0/?title=Phase%202&color=FF5722)
 
----
+<details>
+<summary>📅 View Day-by-Day Plan for PHASE 2</summary>
 
-## ⚙️ **Prerequisites**
-
-- ✅ Python 3.8 or above  
-- ✅ Code Editor (VS Code / PyCharm)  
-- ✅ Basic Command Line Skills  
-
----
-
-## 🎯 **Why Choose This Course?**
-
-- 📆 Structured daily progress to build strong habits  
-- 🧠 Hands-on learning with clear examples and code  
-- 🗃️ Well-organized notes for quick revision  
-- 💼 Ideal for Automation, Data Science, and Interview Preparation  
-- 🤝 Beginner-friendly explanations with real-world relevance  
-- 🛠️ Learn by doing, not just reading  
-- 📈 Build confidence with progressive difficulty  
-
----
-
-## 🔗 **Useful Resources**
-
-- 📘 [Python Official Documentation](https://docs.python.org/3/)  
-- 🐙 [Follow Me on GitHub](https://github.com/vinayakmishra4)  
-- ⭐️ Star the repo and share with your fellow coders!  
-
----
-
-## 🏁 **Ready to Code Python — The Smart Way!** 💪🐍
-
-> 💬 *Every expert was once a beginner — keep going!*  
-
----
-
-## 🌱 **Start Your Python Journey Today!**
-
-Don’t just learn Python — master it with confidence. Star the repo, commit daily, and watch your skills grow.
-
-👨‍💻 **Happy Coding!** 🚀
-
----
-
-<p align="center">
-  Don’t stop now — star ⭐ the repo, share with friends 👨‍👩‍👧‍👦, and commit to code daily! 🧑‍💻
-</p>
-
----
-
-<h2 align="center">🎯 Stay Consistent, Code Relentlessly! 💻🔥</h2>
-
-<p align="center">
-  🚀 Share your Python wins, help others, and become a coding inspiration! 🌟
-</p>
-
----
-
-> 🌟 **“Code is like humor. When you have to explain it, it’s bad.” — Cory House** 🌟  
-> <p align="right">— Keep It Clean & Fun!</p>
+| **Day**   | **Description**                                               | **Notes**                                                                                                                            | **Code**                                                                                                                              |
+|-----------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Day 21** | *Understand Python lists, their syntax, and how to access elements*         | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)                   | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)                    |
+| **Day 22** | *Master common Python list methods for manipulating and accessing list data* | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)                   | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)                  |
+| **Day 23** | *Intro to Tuples*                                              | 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)                         | 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)                       |
+</details>
