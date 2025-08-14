@@ -31,99 +31,99 @@
 <details>
 <summary>📘 PHASE 1: Python Fundamentals (Day 1 - Day 20) — Click to expand</summary>
 
-- [ ] **Day 1** — Hello World & Setup  
+- [x] **Day 1** — Hello World & Setup  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.md)  
   💡 Skill: Learn to set up Python and write your first program.
 
-- [ ] **Day 2** — Pip and Modules  
+- [x] **Day 2** — Pip and Modules  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)  
   💡 Skill: Understand package management and module usage.
 
-- [ ] **Day 3** — First Program  
+- [x] **Day 3** — First Program  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/DAY-3.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/FirstProgram.py)  
   💡 Skill: Write and run your first Python script.
 
-- [ ] **Day 4** — Comments & Escape Sequences  
+- [x] **Day 4** — Comments & Escape Sequences  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)  
   💡 Skill: Use comments and special characters in strings.
 
-- [ ] **Day 5** — Variables & Data Types  
+- [x] **Day 5** — Variables & Data Types  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)  
   💡 Skill: Understand how to store and manipulate data.
 
-- [ ] **Day 6** — Operators  
+- [x] **Day 6** — Operators  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)  
   💡 Skill: Perform arithmetic and logical operations.
 
-- [ ] **Day 7** — Type Casting  
+- [x] **Day 7** — Type Casting  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)  
   💡 Skill: Convert data types explicitly.
 
-- [ ] **Day 8** — Input (Scanner)  
+- [x] **Day 8** — Input (Scanner)  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)  
   💡 Skill: Read user input from the console.
 
-- [ ] **Day 9** — Strings  
+- [x] **Day 9** — Strings  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)  
   💡 Skill: Work with text data and string methods.
 
-- [ ] **Day 10** — String Slicing & Operations  
+- [x] **Day 10** — String Slicing & Operations  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/DAY-10.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/Stringop.py)  
   💡 Skill: Extract and manipulate substrings.
 
-- [ ] **Day 11** — IF-ELSE Statements  
+- [x] **Day 11** — IF-ELSE Statements  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-11-IF-ELSE-Statement/DAY-11.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-11-IF-ELSE-Statement/if_else.py)  
   💡 Skill: Control flow with conditional branching.
 
-- [ ] **Day 12** — Exercise  
+- [x] **Day 12** — Exercise  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-12-EX-2/ex2.py)  
   💡 Skill: Practice with coding exercises.
 
-- [ ] **Day 13** — Match Case Statement  
+- [x] **Day 13** — Match Case Statement  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)  
   💡 Skill: Use pattern matching for cleaner code.
 
-- [ ] **Day 14** — FOR LOOPS  
+- [x] **Day 14** — FOR LOOPS  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py)  
   💡 Skill: Iterate over sequences efficiently.
 
-- [ ] **Day 15** — WHILE LOOPS  
+- [x] **Day 15** — WHILE LOOPS  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py)  
   💡 Skill: Loop with condition-based repetition.
 
-- [ ] **Day 16** — BREAK & CONTINUE  
+- [x] **Day 16** — BREAK & CONTINUE  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py)  
   💡 Skill: Control loop execution flow.
 
-- [ ] **Day 17** — Functions  
+- [x] **Day 17** — Functions  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/Primenumber.py)  
   💡 Skill: Define reusable code blocks.
 
-- [ ] **Day 18** — Function Arguments  
+- [x] **Day 18** — Function Arguments  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)  
   💡 Skill: Pass data into functions effectively.
 
-- [ ] **Day 19** — Summary (Review Day)  
+- [x] **Day 19** — Summary (Review Day)  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-(Day1%20to%20Day%2019)/DAY-19.md#day-1--introduction-to-python)  
   💡 Skill: Review and consolidate learning.
 
-- [ ] **Day 20** — My First Python Suite Project  
+- [x] **Day 20** — My First Python Suite Project  
   📄 [Notes](https://github.com/vinayakmishra4/Project-My-Python-Suite)  
   💡 Skill: Apply basics to build a mini CLI tool suite.
 
@@ -136,17 +136,17 @@
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
 
-- [ ] **Day 21** — Understand Python lists, their syntax, and how to access elements  
+- [x] **Day 21** — Understand Python lists, their syntax, and how to access elements  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)  
   💡 Skill: Learn list basics and element access.
 
-- [ ] **Day 22** — Master common Python list methods for manipulating and accessing list data  
+- [x] **Day 22** — Master common Python list methods for manipulating and accessing list data  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)  
   💡 Skill: Use list methods to modify and analyze lists.
 
-- [ ] **Day 23** — Intro to Tuples  
+- [x] **Day 23** — Intro to Tuples  
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)  
   💡 Skill: Understand immutable sequences with tuples.
