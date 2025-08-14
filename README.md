@@ -150,7 +150,9 @@
   📄 [Notes](https://github.com/vinayakmishra4/Project-My-Python-Suite)  
   💡 Skill: Apply basics to build a mini CLI tool suite.
 
+
 </details>
+🏆 **Winner's Badge:** ![Winner Badge](https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge)
 
 ---
 
@@ -179,8 +181,6 @@
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)  
   💡 Skill: Understand immutable sequences with tuples.
-
-</details>
 
 ---
 
