@@ -28,6 +28,29 @@
 ## 🔰 <span style="background:#4CAF50; color:white; padding:4px 8px; border-radius:4px;">PHASE 1: Python Fundamentals (Day 1 - Day 20)</span>  
 #### Build your solid foundation in Python
 
+| **Day** | **Topic** |
+|---------|-----------|
+| Day 1 | Hello World & Setup |
+| Day 2 | Pip and Modules |
+| Day 3 | First Program |
+| Day 4 | Comments & Escape Sequences |
+| Day 5 | Variables & Data Types |
+| Day 6 | Operators |
+| Day 7 | Type Casting |
+| Day 8 | Input (Scanner) |
+| Day 9 | Strings |
+| Day 10 | String Slicing & Operations |
+| Day 11 | IF-ELSE Statements |
+| Day 12 | Exercise |
+| Day 13 | Match Case Statement |
+| Day 14 | FOR LOOPS |
+| Day 15 | WHILE LOOPS |
+| Day 16 | BREAK & CONTINUE |
+| Day 17 | Functions |
+| Day 18 | Function Arguments |
+| Day 19 | Summary (Review Day) |
+| Day 20 | My First Python Suite Project |
+
 <details>
 <summary>📘 PHASE 1: Python Fundamentals (Day 1 - Day 20) — Click to expand</summary>
 
@@ -132,6 +155,12 @@
 ---
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 2: Intermediate Python (Day 21 – Day 40)</span>  
+
+| **Day** | **Topic** |
+|---------|-----------|
+| Day 21 | Intro to Lists |
+| Day 22 | List Methods |
+| Day 23 | Intro to Tuples |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
