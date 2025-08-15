@@ -166,6 +166,7 @@
 | Day 21 | Intro to Lists |
 | Day 22 | List Methods |
 | Day 23 | Intro to Tuples |
+| Day 24 | Tuple Methods|
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -184,6 +185,10 @@
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)  
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)  
   💡 Skill: Understand immutable sequences with tuples.
+
+- [x] **Day 24** — Tuple Methods
+  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
+  💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
 
 </details>
 ---
