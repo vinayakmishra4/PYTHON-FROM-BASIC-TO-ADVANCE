@@ -153,7 +153,7 @@
 
 </details>
 <div align="center" style="margin: 10px 0;">
-  <h3>🏆 Winner's Badge</h3>
+  <h3>🏆 Winner's</h3>
   <img src="https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner - Phase 1">
 </div>
 
