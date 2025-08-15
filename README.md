@@ -189,6 +189,7 @@
 - [x] **Day 24** — Tuple Methods
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
+  💡 Skill: Learn tuple methods for accessing and manipulating tuple data.
 
 </details>
 ---
