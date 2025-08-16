@@ -1,4 +1,3 @@
-````markdown
 # 🎮 KBC - Kaun Banega Crorepati (Python CLI Game)
 
 > *Test your knowledge and win big!*  
