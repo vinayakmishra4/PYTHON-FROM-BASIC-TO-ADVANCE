@@ -191,6 +191,7 @@
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
   💡 Skill: Learn tuple methods for accessing and manipulating tuple data.
+  
 - [x] **Day 25** — KBC
   📄 [Repo](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-25-KBC/DAY-25.md)
   **Features:-**
