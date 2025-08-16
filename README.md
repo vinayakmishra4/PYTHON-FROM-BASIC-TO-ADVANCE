@@ -172,31 +172,55 @@
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
 
-- [x] **Day 21** — Understand Python lists, their syntax, and how to access elements  
-  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)  
-  💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)  
-  💡 Skill: Learn list basics and element access.
+Sure! Here's a cleaner, properly formatted version of your progress list with consistent styling and spacing:
 
-- [x] **Day 22** — Master common Python list methods for manipulating and accessing list data  
-  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)  
-  💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)  
-  💡 Skill: Use list methods to modify and analyze lists.
+---
 
-- [x] **Day 23** — Intro to Tuples  
-  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)  
-  💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)  
-  💡 Skill: Understand immutable sequences with tuples.
+### ✅ **Day 21** — Understand Python lists, their syntax, and how to access elements
 
-- [x] **Day 24** — Tuple Methods
-  📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
-  💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
-  💡 Skill: Learn tuple methods for accessing and manipulating tuple data.
-  
-- [x] **Day 25** — KBC
-  📄 [Repo](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-25-KBC/DAY-25.md)
-  **Features:-**
-  - **Quiz Game:** A simple quiz game where the user is asked a series of questions and their answers are checked.
-  - **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/DAY21.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-21-Intro-to-List/IntroLi.py)
+💡 Skill: Learn list basics and element access.
+
+---
+
+### ✅ **Day 22** — Master common Python list methods for manipulating and accessing list data
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/DAY-22.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-22-List-Methods/Methodlist.py)
+💡 Skill: Use list methods to modify and analyze lists.
+
+---
+
+### ✅ **Day 23** — Intro to Tuples
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/DAT-23.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-23-Tuples/TuplesIntro.py)
+💡 Skill: Understand immutable sequences with tuples.
+
+---
+
+### ✅ **Day 24** — Tuple Methods
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
+💡 Skill: Learn tuple methods for accessing and manipulating tuple data.
+
+---
+
+### ✅ **Day 25** — KBC (Quiz Game)
+
+📄 [Repo](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-25-KBC/DAY-25.md)
+
+**Features:**
+
+* **Quiz Game:** A simple quiz game where the user is asked a series of questions and their answers are checked.
+* **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
+
+---
+
+If you want, I can help you organize it further or convert it to another format (like markdown, HTML, or a table). Let me know!
+
 
 </details>
 ---
