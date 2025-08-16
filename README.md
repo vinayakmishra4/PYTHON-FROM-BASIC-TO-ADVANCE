@@ -167,6 +167,7 @@
 | Day 22 | List Methods |
 | Day 23 | Intro to Tuples |
 | Day 24 | Tuple Methods|
+| Day 25 | KBC |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -190,6 +191,11 @@
   📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
   💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-24-Tuple-Methods/DAY-24.PY)
   💡 Skill: Learn tuple methods for accessing and manipulating tuple data.
+- [x] **Day 25** — KBC
+  📄 [Repo](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-25-KBC/DAY-25.md)
+  **Features:-**
+  - **Quiz Game:** A simple quiz game where the user is asked a series of questions and their answers are checked.
+  - **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
 
 </details>
 ---
