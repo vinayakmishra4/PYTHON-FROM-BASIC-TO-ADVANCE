@@ -168,6 +168,7 @@
 | Day 23 | Intro to Tuples |
 | Day 24 | Tuple Methods|
 | Day 25 | KBC |
+| Day 26 | F-Strings: Formatting |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -216,6 +217,18 @@ Sure! Here's a cleaner, properly formatted version of your progress list with co
 
 * **Quiz Game:** A simple quiz game where the user is asked a series of questions and their answers are checked.
 * **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
+
+---
+
+Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more interactive, motivational, and visually rewarding:
+
+---
+
+### ✅ **Day 26** — F-Strings: Formatting
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-26-F-String/DAY-26.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-26-F-String/Stringf.py)
+💡 **Skill:** Format strings dynamically using `f-strings` for readable and efficient output.
 
 ---
 
