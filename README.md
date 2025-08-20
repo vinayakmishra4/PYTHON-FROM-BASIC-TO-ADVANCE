@@ -233,7 +233,6 @@ Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more i
 ---
 
 </details>
----
 
 ## ⚙️ **Prerequisites**
 
