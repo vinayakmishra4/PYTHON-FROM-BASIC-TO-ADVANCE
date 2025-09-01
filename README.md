@@ -169,6 +169,7 @@
 | Day 24 | Tuple Methods|
 | Day 25 | KBC |
 | Day 26 | F-Strings: Formatting |
+| Day 27 | DOC String and PEP-8 |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -218,6 +219,8 @@ Sure! Here's a cleaner, properly formatted version of your progress list with co
 * **Quiz Game:** A simple quiz game where the user is asked a series of questions and their answers are checked.
 * **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
 
+
+
 ---
 
 Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more interactive, motivational, and visually rewarding:
@@ -229,6 +232,18 @@ Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more i
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-26-F-String/DAY-26.md)
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-26-F-String/Stringf.py)
 💡 **Skill:** Format strings dynamically using `f-strings` for readable and efficient output.
+
+---
+
+Sure! Here’s a neat summary for **Day 27** similar to the format you had for Day 26:
+
+---
+
+### ✅ **Day 27** — Doc Strings and PEP-8
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-27-DOC-PEP-8/DAY-27.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-27-DOC-PEP-8/docpep8.py)
+💡 **Skill:** Write clear documentation using docstrings and follow PEP-8 guidelines for clean, readable, and standardized Python code.
 
 ---
 
