@@ -170,6 +170,7 @@
 | Day 25 | KBC |
 | Day 26 | F-Strings: Formatting |
 | Day 27 | DOC String and PEP-8 |
+| Day 28 | Recursion |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -220,11 +221,6 @@ Sure! Here's a cleaner, properly formatted version of your progress list with co
 * **Score Keeping:** The user's score is kept track of and displayed at the end of the game.
 
 
-
----
-
-Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more interactive, motivational, and visually rewarding:
-
 ---
 
 ### ✅ **Day 26** — F-Strings: Formatting
@@ -235,15 +231,20 @@ Awesome! Here's what I’ve prepared for **Day 26: F-Strings** to make it more i
 
 ---
 
-Sure! Here’s a neat summary for **Day 27** similar to the format you had for Day 26:
-
----
-
 ### ✅ **Day 27** — Doc Strings and PEP-8
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-27-DOC-PEP-8/DAY-27.md)
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-27-DOC-PEP-8/docpep8.py)
 💡 **Skill:** Write clear documentation using docstrings and follow PEP-8 guidelines for clean, readable, and standardized Python code.
+
+---
+
+
+### ✅ **Day 28** — Recursion
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-28-Recursion/Nto1.py)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-28-Recursion/Nto1.py)
+💡 **Skill:** Understand recursion and how functions can call themselves to solve problems step by step.
 
 ---
 
