@@ -3,7 +3,7 @@
 ---
 
 ## 📖 **Definition**  
-A **dictionary** in Python is an **unordered, mutable, and dynamic collection** that stores data in **key-value pairs**.  
+A **dictionary** in Python is an **ordered, mutable, and dynamic collection** that stores data in **key-value pairs**.  
 
 - 🔑 **Keys** → must be unique & immutable (string, int, tuple).  
 - 📦 **Values** → can be any type (string, int, list, dict, etc.).  
