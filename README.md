@@ -171,6 +171,7 @@
 | Day 26 | F-Strings: Formatting |
 | Day 27 | DOC String and PEP-8 |
 | Day 28 | Recursion |
+| Day 29 | Sets |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -247,6 +248,14 @@ Sure! Here's a cleaner, properly formatted version of your progress list with co
 💡 **Skill:** Understand recursion and how functions can call themselves to solve problems step by step.
 
 ---
+
+---
+
+### ✅ **Day 29** — Sets
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-29-SETS/DAY-29.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-29-SETS/Ssets.py)
+💡 **Skill:** Learn about Python sets, their properties (unordered, unique elements), and operations like union, intersection, and difference.
 
 </details>
 
