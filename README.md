@@ -173,6 +173,7 @@
 | Day 28 | Recursion |
 | Day 29 | Sets |
 | Day 30 | Dictionaries|
+| Day 31 | Exectpion Handling|
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -263,6 +264,17 @@ Sure! Here's a cleaner, properly formatted version of your progress list with co
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-30-Dictionaries/DAY-30.md)
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-30-Dictionaries/pdict.py)
 💡 **Skill:** Learn about Python dictionaries, key-value pairs, and how to store, access, and manipulate data efficiently.
+
+Great! Here’s a quick summary for **Day 31: Exception Handling** based on that:
+
+---
+
+### ✅ **Day 31** — Exception Handling
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-31-Execption-handling/DAY-31.md)
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-31-Execption-handling/trexp.py)
+
+**💡 Skill:** Learn how to handle errors and exceptions gracefully in Python using `try`, `except`, `else`, and `finally` blocks. This skill helps you write more robust programs by managing runtime errors without crashing your code.
 
 </details>
 
