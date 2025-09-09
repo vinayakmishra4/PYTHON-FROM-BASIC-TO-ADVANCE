@@ -161,19 +161,20 @@
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 2: Intermediate Python (Day 21 – Day 40)</span>  
 
-| **Day** | **Topic** |
-|---------|-----------|
-| Day 21 | Intro to Lists |
-| Day 22 | List Methods |
-| Day 23 | Intro to Tuples |
-| Day 24 | Tuple Methods|
-| Day 25 | KBC |
-| Day 26 | F-Strings: Formatting |
-| Day 27 | DOC String and PEP-8 |
-| Day 28 | Recursion |
-| Day 29 | Sets |
-| Day 30 | Dictionaries|
-| Day 31 | Exectpion Handling|
+| **Day** | **Topic**           |
+|---------|---------------------|
+| Day 21 | Intro to Lists       |
+| Day 22 | List Methods         |
+| Day 23 | Intro to Tuples      |
+| Day 24 | Tuple Methods        |
+| Day 25 | KBC                  |
+| Day 26 | F-Strings: Formatting|
+| Day 27 | DOC-String and PEP-8 |
+| Day 28 | Recursion            |
+| Day 29 | Sets                 |
+| Day 30 | Dictionaries         |
+| Day 31 | Exectpion Handling   |
+| Day 32 | Finally              |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -269,12 +270,22 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ---
 
+
 ### ✅ **Day 31** — Exception Handling
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-31-Execption-handling/DAY-31.md)
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-31-Execption-handling/trexp.py)
 
-**💡 Skill:** Learn how to handle errors and exceptions gracefully in Python using `try`, `except`, `else`, and `finally` blocks. This skill helps you write more robust programs by managing runtime errors without crashing your code.
+**💡 Skill:** Learn how to handle errors and exceptions gracefully in Python using `try`, `except` and `else` blocks. This skill helps you write more robust programs by managing runtime errors without crashing your code.
+
+---
+
+### ✅ **Day 32** — Finally
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/DAY-31.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/finall.py)  
+
+**💡 Skill:** Learn how to use the `finally` block in Python to ensure that important cleanup code (like closing files or releasing resources) always runs, no matter what happens during execution.
 
 </details>
 
