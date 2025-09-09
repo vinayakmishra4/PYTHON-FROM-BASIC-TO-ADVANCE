@@ -17,8 +17,6 @@ except ExceptionType2:
     # Handle ExceptionType2
 else:
     # Code executed if no exceptions were raised
-finally:
-    # Code that always runs, regardless of exceptions
 ````
 
 ---

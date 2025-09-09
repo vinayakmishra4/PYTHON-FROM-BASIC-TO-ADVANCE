@@ -23,7 +23,3 @@ except ZeroDivisionError:
 except Exception as e:
     # This block catches any other unexpected errors
     print(f"An unexpected error occurred: {e}")
-
-finally:
-    # This block always runs regardless of exception
-    print("Program execution completed.")
