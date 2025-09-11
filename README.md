@@ -175,6 +175,7 @@
 | Day 30 | Dictionaries         |
 | Day 31 | Exectpion Handling   |
 | Day 32 | Finally              |
+| Day 33 | Custom Errors        |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -286,6 +287,15 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/finall.py)  
 
 **💡 Skill:** Learn how to use the `finally` block in Python to ensure that important cleanup code (like closing files or releasing resources) always runs, no matter what happens during execution.
+
+---
+
+### ✅ **Day 33** — Custom Errors
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-33-Custom-Errors/DAY-33.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-33-Custom-Errors/CusEe.py)  
+
+**💡 Skill:** Learn how to define and raise custom exceptions in Python, allowing you to handle domain-specific errors more effectively and write cleaner, more robust programs.
 
 </details>
 
