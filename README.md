@@ -176,6 +176,7 @@
 | Day 31 | Exectpion Handling   |
 | Day 32 | Finally              |
 | Day 33 | Custom Errors        |
+| Day 34 | Secret Code Language |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -296,6 +297,14 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-33-Custom-Errors/CusEe.py)  
 
 **💡 Skill:** Learn how to define and raise custom exceptions in Python, allowing you to handle domain-specific errors more effectively and write cleaner, more robust programs.
+
+---
+
+### ✅ **Day 34** — Secret Code Language  
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-34-EX-Secret-Code/Sceretcode.py)  
+
+**💡 Skill:** Build a fun secret code language project to apply string manipulation and logic creatively.  
 
 </details>
 
