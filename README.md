@@ -177,6 +177,7 @@
 | Day 32 | Finally              |
 | Day 33 | Custom Errors        |
 | Day 34 | Secret Code Language |
+| Day 35 | Enumerate            |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -305,6 +306,14 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-34-EX-Secret-Code/Sceretcode.py)  
 
 **💡 Skill:** Build a fun secret code language project to apply string manipulation and logic creatively.  
+
+### ✅ **Day 35** — Emunrate
+
+📄 [Notes](http://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-35-Enumerate/DAY-35.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-35-Enumerate/em.py) 
+
+**💡 Skill:** Mastering `enumerate()` to write cleaner, more efficient loops with automatic index tracking in Python.
+
 
 </details>
 
