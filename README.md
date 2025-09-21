@@ -178,6 +178,7 @@
 | Day 33 | Custom Errors        |
 | Day 34 | Secret Code Language |
 | Day 35 | Enumerate            |
+| Day 36 | Main (Generators, Decorators, Context Managers) |
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -313,6 +314,15 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-35-Enumerate/em.py) 
 
 **💡 Skill:** Mastering `enumerate()` to write cleaner, more efficient loops with automatic index tracking in Python.
+
+---
+
+### ✅ **Day 36** — Main (Generators, Decorators, Context Managers)
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-36-Main/DAY-36.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-36-Main/Main.py)  
+
+**💡 Skill:** Learn about Python generators for memory-efficient loops, decorators to enhance functions dynamically, and context managers to manage resources safely.
 
 
 </details>
