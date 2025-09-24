@@ -179,6 +179,8 @@
 | Day 34 | Secret Code Language |
 | Day 35 | Enumerate            |
 | Day 36 | Main (Generators, Decorators, Context Managers) |
+| Day 37 | Number Guess Game |
+
 
 <details>
 <summary>📘 PHASE 2: Intermediate Python (Day 21 – Day 40) — Click to expand</summary>
@@ -323,6 +325,11 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-36-Main/Main.py)  
 
 **💡 Skill:** Learn about Python generators for memory-efficient loops, decorators to enhance functions dynamically, and context managers to manage resources safely.
+
+### ✅ Day 37 — Number Guess
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-37-Number-Guess/NumberGuess.py)
+**💡 Skill:** Build an interactive number guessing game using loops, conditionals, user input, and random number generation.
 
 
 </details>
