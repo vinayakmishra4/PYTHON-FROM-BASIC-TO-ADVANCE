@@ -340,6 +340,12 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Build an interactive number guessing game using loops, conditionals, user input, and random number generation.
 
+###  ✅ ** Day 39 ** — To do List
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-39-TO-DO-LISt/todo.py)
+
+**💡 Skill:** Build a simple to-do list app to manage tasks dynamically using lists, functions, and file handling.
+
 </details>
 
 ## ⚙️ **Prerequisites**
