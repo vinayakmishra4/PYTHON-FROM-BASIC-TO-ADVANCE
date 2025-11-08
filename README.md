@@ -182,6 +182,7 @@
 | Day 37 | Number Guess Game |
 | Day 38 | Contact book |
 | Day 39 | TO-DO LIST |
+| Day 40 | Libaray Managment System |
 
 
 
@@ -346,6 +347,12 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-39-TO-DO-LISt/todo.py)
 
 **💡 Skill:** Build a simple to-do list app to manage tasks dynamically using lists, functions, and file handling.
+
+### ✅ ** Day 40 ** — Project-Libaray Management System
+  📄 [Notes](https://github.com/vinayakmishra4/Library-Mangemnt-System) 
+  **💡 Skill:** 🧾 A lightweight, Python-based Library Management System that simplifies book, user, and borrowing management with clean JSON-based data storage.
+
+
 
 </details>
 
