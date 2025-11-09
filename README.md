@@ -359,7 +359,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 </details>
 <div align="center" style="margin: 10px 0;">
   <h3>🏆 Winner's</h3>
-  <img src="https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner - Phase 2">
+  <img src="https://img.shields.io/badge/Python%20Phase%202%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner - Phase 2">
 </div>
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 3: Intermediate Python (Day 41 – Day 60)</span>  
