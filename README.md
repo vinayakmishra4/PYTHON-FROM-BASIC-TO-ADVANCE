@@ -28,28 +28,28 @@
 ## 🔰 <span style="background:#4CAF50; color:white; padding:4px 8px; border-radius:4px;">PHASE 1: Python Fundamentals (Day 1 - Day 20)</span>  
 #### Build your solid foundation in Python
 
-| **Day** | **Topic** |
-|---------|-----------|
-| Day 1 | Hello World & Setup |
-| Day 2 | Pip and Modules |
-| Day 3 | First Program |
-| Day 4 | Comments & Escape Sequences |
-| Day 5 | Variables & Data Types |
-| Day 6 | Operators |
-| Day 7 | Type Casting |
-| Day 8 | Input (Scanner) |
-| Day 9 | Strings |
-| Day 10 | String Slicing & Operations |
-| Day 11 | IF-ELSE Statements |
-| Day 12 | Exercise |
-| Day 13 | Match Case Statement |
-| Day 14 | FOR LOOPS |
-| Day 15 | WHILE LOOPS |
-| Day 16 | BREAK & CONTINUE |
-| Day 17 | Functions |
-| Day 18 | Function Arguments |
-| Day 19 | Summary (Review Day) |
-| Day 20 | My First Python Suite Project |
+| **Day** | **Topic**                     |
+|---------|-------------------------------|
+| Day 1   | Hello World & Setup           |
+| Day 2   | Pip and Modules               |
+| Day 3   | First Program                 |
+| Day 4   | Comments & Escape Sequences   |
+| Day 5   | Variables & Data Types        |
+| Day 6   | Operators                     |
+| Day 7   | Type Casting                  |
+| Day 8   | Input (Scanner)               |
+| Day 9   | Strings                       |
+| Day 10  | String Slicing & Operations   |
+| Day 11  | IF-ELSE Statements            |
+| Day 12  | Exercise                      |
+| Day 13  | Match Case Statement          |
+| Day 14  | FOR LOOPS                     |
+| Day 15  | WHILE LOOPS                   |
+| Day 16  | BREAK & CONTINUE              |
+| Day 17  | Functions                     |
+| Day 18  | Function Arguments            |
+| Day 19  | Summary (Review Day)          |
+| Day 20  | My First Python Suite Project |
 
 <details>
 <summary>📘 PHASE 1: Python Fundamentals (Day 1 - Day 20) — Click to expand</summary>
@@ -161,28 +161,28 @@
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 2: Intermediate Python (Day 21 – Day 40)</span>  
 
-| **Day** | **Topic**           |
-|---------|---------------------|
-| Day 21 | Intro to Lists       |
-| Day 22 | List Methods         |
-| Day 23 | Intro to Tuples      |
-| Day 24 | Tuple Methods        |
-| Day 25 | KBC                  |
-| Day 26 | F-Strings: Formatting|
-| Day 27 | DOC-String and PEP-8 |
-| Day 28 | Recursion            |
-| Day 29 | Sets                 |
-| Day 30 | Dictionaries         |
-| Day 31 | Exectpion Handling   |
-| Day 32 | Finally              |
-| Day 33 | Custom Errors        |
-| Day 34 | Secret Code Language |
-| Day 35 | Enumerate            |
-| Day 36 | Main (Generators, Decorators, Context Managers) |
-| Day 37 | Number Guess Game |
-| Day 38 | Contact book |
-| Day 39 | TO-DO LIST |
-| Day 40 | Libaray Managment System |
+| **Day** | **Topic**            |
+|---------|----------------------|
+| Day 21  | Intro to Lists       |
+| Day 22  | List Methods         |
+| Day 23  | Intro to Tuples      |
+| Day 24  | Tuple Methods        |
+| Day 25  | KBC                  |
+| Day 26  | F-Strings: Formatting|
+| Day 27  | DOC-String and PEP-8 |
+| Day 28  | Recursion            |
+| Day 29  | Sets                 |
+| Day 30  | Dictionaries         |
+| Day 31  | Exectpion Handling   |
+| Day 32  | Finally              |
+| Day 33  | Custom Errors        |
+| Day 34  | Secret Code Language |
+| Day 35  | Enumerate            |
+| Day 36  | Main(G,D,C)          |
+| Day 37  | Number Guess Game    |
+| Day 38  | Contact book         |
+| Day 39  | TO-DO LIST           |
+| Day 40  | L-M-S                |
 
 
 
@@ -366,19 +366,26 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 | **Day** | **Topic**           |
 |---------|---------------------|
-| Day 21 | Local and Global     |
+| Day 41  | Local and Global    |
+| Day 42  | File Handling.      |
 
 
 <details>
 <summary>📘 PHASE 3: Intermediate Python (Day 41 – Day 60) — Click to expand</summary>
 
-### ✅ **Day 36** — Main (Generators, Decorators, Context Managers)
+### ✅ **Day 41** — Local and Global Varaiables
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-41-Local-Global/DAY-41.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-41-Local-Global/Logl.py)  
 
 **💡 Skill:** local variables exist only within functions for modular and safe code, while global variables exist throughout the program for shared access but may cause side effects if overused.
 
+### ✅ **Day 42** — File Handling(Input and Output)
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-42-FILEIO/DAY-42.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-42-FILEIO/inpu.py)  
+
+**💡 Skill:** File handling in Python enables the creation, reading, writing, and management of files to store and retrieve data permanently beyond program execution.
 
 </details>
 
