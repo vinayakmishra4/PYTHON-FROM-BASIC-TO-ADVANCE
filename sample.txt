@@ -1,0 +1,4 @@
+Hello, World!
+This is a sample file.
+File I/O operations in Python are fun!
+Appending a new line to the file.
