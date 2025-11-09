@@ -356,6 +356,33 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 </details>
 
+</details>
+<div align="center" style="margin: 10px 0;">
+  <h3>🏆 Winner's</h3>
+  <img src="https://img.shields.io/badge/Python%20Phase%201%20Complete%20🏆-brightgreen?style=for-the-badge" alt="Winner - Phase 2">
+</div>
+
+## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 3: Intermediate Python (Day 41 – Day 60)</span>  
+
+| **Day** | **Topic**           |
+|---------|---------------------|
+| Day 21 | Local and Global     |
+
+
+<details>
+<summary>📘 PHASE 3: Intermediate Python (Day 41 – Day 60) — Click to expand</summary>
+
+### ✅ **Day 36** — Main (Generators, Decorators, Context Managers)
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-41-Local-Global/DAY-41.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-41-Local-Global/Logl.py)  
+
+**💡 Skill:** local variables exist only within functions for modular and safe code, while global variables exist throughout the program for shared access but may cause side effects if overused.
+
+
+</details>
+
+
 ## ⚙️ **Prerequisites**
 
 - ✅ Python 3.8 or above  
