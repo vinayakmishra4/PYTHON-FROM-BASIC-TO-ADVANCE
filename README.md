@@ -368,6 +368,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 |---------|---------------------|
 | Day 41  | Local and Global    |
 | Day 42  | File Handling.      |
+| Day 43  | Lambda Function     |
 
 
 <details>
@@ -386,6 +387,14 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-42-FILEIO/inpu.py)  
 
 **💡 Skill:** File handling in Python enables the creation, reading, writing, and management of files to store and retrieve data permanently beyond program execution.
+
+### ✅ **Day 42** — Lambda Functions
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-43-Lambda/DAY-43.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-43-Lambda/lam.py)  
+
+**💡 Skill:** A **lambda function** in Python is a small, anonymous, single-expression function used for short, inline tasks like with `map()`, `filter()`, or `sorted()`, offering concise syntax but limited complexity and readability.
+
 
 </details>
 
