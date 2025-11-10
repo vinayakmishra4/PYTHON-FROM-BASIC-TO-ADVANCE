@@ -364,11 +364,12 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 3: Intermediate Python (Day 41 – Day 60)</span>  
 
-| **Day** | **Topic**           |
-|---------|---------------------|
-| Day 41  | Local and Global    |
-| Day 42  | File Handling.      |
-| Day 43  | Lambda Function     |
+| **Day** | **Topic**             |
+|---------|-----------------------|
+| Day 41  | Local and Global      |
+| Day 42  | File Handling.        |
+| Day 43  | Lambda Function       |
+| Day 44  | Map and Filter Reduce |
 
 
 <details>
@@ -394,6 +395,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-43-Lambda/lam.py)  
 
 **💡 Skill:** A **lambda function** in Python is a small, anonymous, single-expression function used for short, inline tasks like with `map()`, `filter()`, or `sorted()`, offering concise syntax but limited complexity and readability.
+
+### ✅ **Day 42** — Map,Filter and Reduce
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-44-Map-Filter-Redue/DAY-44.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-44-Map-Filter-Redue/Mafire.py)  
+
+**💡 Skill:** Map, Filter, and Reduce are powerful Python functions that enable you to transform, select, and aggregate data efficiently using a clean and functional programming approach.
 
 
 </details>
