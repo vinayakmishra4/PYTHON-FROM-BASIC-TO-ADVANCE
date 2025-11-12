@@ -370,6 +370,8 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 42  | File Handling.        |
 | Day 43  | Lambda Function       |
 | Day 44  | Map and Filter Reduce |
+| Day 45  | Equal and identy.     |
+| Day 46  | Snake Game.           |
 
 
 <details>
@@ -389,19 +391,33 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** File handling in Python enables the creation, reading, writing, and management of files to store and retrieve data permanently beyond program execution.
 
-### ✅ **Day 42** — Lambda Functions
+### ✅ **Day 43** — Lambda Functions
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-43-Lambda/DAY-43.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-43-Lambda/lam.py)  
 
 **💡 Skill:** A **lambda function** in Python is a small, anonymous, single-expression function used for short, inline tasks like with `map()`, `filter()`, or `sorted()`, offering concise syntax but limited complexity and readability.
 
-### ✅ **Day 42** — Map,Filter and Reduce
+### ✅ **Day 44** — Map,Filter and Reduce
 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-44-Map-Filter-Redue/DAY-44.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-44-Map-Filter-Redue/Mafire.py)  
 
 **💡 Skill:** Map, Filter, and Reduce are powerful Python functions that enable you to transform, select, and aggregate data efficiently using a clean and functional programming approach.
+
+### ✅ **Day 45** — Equal and identy
+
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-45-equal-vs-identy/DAY-45.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-45-equal-vs-identy/isequal.py)  
+
+**💡 Skill:** Comparison b/w = and is
+
+### ✅ **Day 46** — Sanke Game
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-46-Sanke-Game)  
+
+**💡 Skill:** Sanke-water-game is same as rock paper ssisoris
+
 
 
 </details>
