@@ -372,6 +372,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 44  | Map and Filter Reduce |
 | Day 45  | Equal and identy.     |
 | Day 46  | Snake Game.           |
+| Day 47  | Intro to OOP          |
 
 
 <details>
@@ -418,7 +419,11 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Sanke-water-game is same as rock paper ssisoris
 
+### ✅ **Day 47** — Intro to OOP
 
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-47-Intro-To-OOP)  
+
+**💡 Skill:** Object-Oriented Programming (OOP) is a programming paradigm that models real-world entities as objects with attributes and behaviors, using encapsulation, abstraction, inheritance, and polymorphism to create organized, reusable, and maintainable code.
 
 </details>
 
