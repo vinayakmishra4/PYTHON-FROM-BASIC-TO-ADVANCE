@@ -425,6 +425,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Object-Oriented Programming (OOP) is a programming paradigm that models real-world entities as objects with attributes and behaviors, using encapsulation, abstraction, inheritance, and polymorphism to create organized, reusable, and maintainable code.
 
+### ✅ **Day 48** — Class-Object
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/DAY-48.md)  
+💻 [Code]  (http://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/clob.py)
+
+**💡 Skill:** A class is a blueprint that defines attributes and behaviors, while an object is a specific instance of that class.
+
 </details>
 
 
