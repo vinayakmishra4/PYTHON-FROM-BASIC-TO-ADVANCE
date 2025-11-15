@@ -373,6 +373,8 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 45  | Equal and identy.     |
 | Day 46  | Snake Game.           |
 | Day 47  | Intro to OOP          |
+| Day 48  | Class and Objects.    |
+| Day 49  | Constructor           | 
 
 
 <details>
@@ -431,6 +433,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code]  (http://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/clob.py)
 
 **💡 Skill:** A class is a blueprint that defines attributes and behaviors, while an object is a specific instance of that class.
+
+### ✅ **Day 49** — Constructor
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/DAY-49.md)  
+💻 [Code]  (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/Con.py)
+
+**💡 Skill:** Python constructors are special __init__ methods that automatically initialize object attributes, making object creation organized, flexible, and consistent.
 
 </details>
 
