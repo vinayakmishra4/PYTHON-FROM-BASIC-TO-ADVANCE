@@ -441,6 +441,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Python constructors are special __init__ methods that automatically initialize object attributes, making object creation organized, flexible, and consistent.
 
+### ✅ **Day 50** — Decoraters
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/DAY-50.md)  
+💻 [Code]  (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/Dec.py)
+
+**💡 Skill:** Python decorators allow you to enhance or modify a function’s behavior by wrapping it with additional functionality without changing its original code.
+
 </details>
 
 
