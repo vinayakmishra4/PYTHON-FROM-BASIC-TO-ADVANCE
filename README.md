@@ -374,7 +374,8 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 46  | Snake Game.           |
 | Day 47  | Intro to OOP          |
 | Day 48  | Class and Objects.    |
-| Day 49  | Constructor           | 
+| Day 49  | Constructor           |
+| Day 50  | Decoraters            | 
 
 
 <details>
@@ -447,6 +448,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code]  (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/Dec.py)
 
 **💡 Skill:** Python decorators allow you to enhance or modify a function’s behavior by wrapping it with additional functionality without changing its original code.
+
+### ✅ **Day 51** — Getter-Setter
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/DAY-51-Getter-Setter.md)  
+💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/Gese.py)
+
+**💡 Skill:** Getters and setters provide a controlled, secure way to access and modify private attributes in object-oriented programming.
 
 </details>
 
