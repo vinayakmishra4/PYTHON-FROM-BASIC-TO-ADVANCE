@@ -376,6 +376,8 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 48  | Class and Objects.    |
 | Day 49  | Constructor           |
 | Day 50  | Decoraters            | 
+| Day 51  | Getter and setter     | 
+| Day 52  | Inheritance           | 
 
 
 <details>
@@ -455,6 +457,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/Gese.py)
 
 **💡 Skill:** Getters and setters provide a controlled, secure way to access and modify private attributes in object-oriented programming.
+
+### ✅ **Day 52** — Inheritance
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/DAY-52.md)  
+💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/Inhe.py)
+
+**💡 Skill:** Python’s object‑oriented programming, inheritance lets a subclass automatically gain attributes and methods from a parent class — enabling code reuse and creating hierarchical class relationships
 
 </details>
 
