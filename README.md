@@ -378,6 +378,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 50  | Decoraters            | 
 | Day 51  | Getter and setter     | 
 | Day 52  | Inheritance           | 
+| Day 53  | Acess-Modifers        | 
 
 
 <details>
@@ -464,6 +465,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/Inhe.py)
 
 **💡 Skill:** Python’s object‑oriented programming, inheritance lets a subclass automatically gain attributes and methods from a parent class — enabling code reuse and creating hierarchical class relationships
+
+### ✅ **Day 53** — Acess Modifers
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/DAY-53.md)  
+💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/Acmod.py)
+
+**💡 Skill:** Access modifiers in Python control the visibility of class members using naming conventions to implement encapsulation and guide proper usage
 
 </details>
 
