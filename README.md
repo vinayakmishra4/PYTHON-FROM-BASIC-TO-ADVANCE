@@ -379,7 +379,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 51  | Getter and setter     | 
 | Day 52  | Inheritance           | 
 | Day 53  | Acess-Modifers        | 
-
+| Day 54  | Static                | 
 
 <details>
 <summary>📘 PHASE 3: Intermediate Python (Day 41 – Day 60) — Click to expand</summary>
@@ -472,6 +472,13 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/Acmod.py)
 
 **💡 Skill:** Access modifiers in Python control the visibility of class members using naming conventions to implement encapsulation and guide proper usage
+
+### ✅ **Day 54** — Static Method
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/Readme.md)  
+💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/st.py)
+
+**💡 Skill:** A static method in Python is a class-related method that does not use instance or class data and can be called directly using the class name without creating an object.
 
 </details>
 
