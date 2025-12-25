@@ -434,57 +434,57 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ### ✅ **Day 48** — Class-Object
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/DAY-48.md)  
-💻 [Code]  (http://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/clob.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/DAY-48.md)  
+💻 [Code](http://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-48-Class-Object/clob.py)
 
 **💡 Skill:** A class is a blueprint that defines attributes and behaviors, while an object is a specific instance of that class.
 
 ### ✅ **Day 49** — Constructor
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/DAY-49.md)  
-💻 [Code]  (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/Con.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/DAY-49.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-49-Constructor/Con.py)
 
 **💡 Skill:** Python constructors are special __init__ methods that automatically initialize object attributes, making object creation organized, flexible, and consistent.
 
 ### ✅ **Day 50** — Decoraters
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/DAY-50.md)  
-💻 [Code]  (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/Dec.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/DAY-50.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-50-Decoraters/Dec.py)
 
 **💡 Skill:** Python decorators allow you to enhance or modify a function’s behavior by wrapping it with additional functionality without changing its original code.
 
 ### ✅ **Day 51** — Getter-Setter
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/DAY-51-Getter-Setter.md)  
-💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/Gese.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/DAY-51-Getter-Setter.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-51-Getter-Settter/Gese.py)
 
 **💡 Skill:** Getters and setters provide a controlled, secure way to access and modify private attributes in object-oriented programming.
 
 ### ✅ **Day 52** — Inheritance
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/DAY-52.md)  
-💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/Inhe.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/DAY-52.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-52-Inheritance/Inhe.py)
 
 **💡 Skill:** Python’s object‑oriented programming, inheritance lets a subclass automatically gain attributes and methods from a parent class — enabling code reuse and creating hierarchical class relationships
 
 ### ✅ **Day 53** — Acess Modifers
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/DAY-53.md)  
-💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/Acmod.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/DAY-53.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-53-Acess-Modifer/Acmod.py)
 
 **💡 Skill:** Access modifiers in Python control the visibility of class members using naming conventions to implement encapsulation and guide proper usage
 
 ### ✅ **Day 54** — Static Method
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/Readme.md)  
-💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/st.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/Readme.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/st.py)
 
 **💡 Skill:** A static method in Python is a class-related method that does not use instance or class data and can be called directly using the class name without creating an object.
 
 ### ✅ **Day 55** — Static-vs-Instance-Variables
 
-📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/Readme.md)  
-💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/invscl.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/Readme.md)  
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/invscl.py)
 
 **💡 Skill:** Instance variables store data unique to each object, while class variables store data shared by all objects of a class.
 
