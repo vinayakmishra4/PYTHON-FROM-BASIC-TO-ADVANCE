@@ -364,22 +364,23 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ## 🚀🔥 <span style="background:#FF5722; color:white; padding:4px 8px; border-radius:4px;">PHASE 3: Intermediate Python (Day 41 – Day 60)</span>  
 
-| **Day** | **Topic**             |
-|---------|-----------------------|
-| Day 41  | Local and Global      |
-| Day 42  | File Handling.        |
-| Day 43  | Lambda Function       |
-| Day 44  | Map and Filter Reduce |
-| Day 45  | Equal and identy.     |
-| Day 46  | Snake Game.           |
-| Day 47  | Intro to OOP          |
-| Day 48  | Class and Objects.    |
-| Day 49  | Constructor           |
-| Day 50  | Decoraters            | 
-| Day 51  | Getter and setter     | 
-| Day 52  | Inheritance           | 
-| Day 53  | Acess-Modifers        | 
-| Day 54  | Static                | 
+| **Day** | **Topic**                |
+|---------|--------------------------|
+| Day 41  | Local and Global         |
+| Day 42  | File Handling.           |
+| Day 43  | Lambda Function          |
+| Day 44  | Map and Filter Reduce    |
+| Day 45  | Equal and identy.        |
+| Day 46  | Snake Game.              |
+| Day 47  | Intro to OOP             |
+| Day 48  | Class and Objects.       |
+| Day 49  | Constructor              |
+| Day 50  | Decoraters               |     
+| Day 51  | Getter and setter        |   
+| Day 52  | Inheritance              | 
+| Day 53  | Acess-Modifers           | 
+| Day 54  | Static                   | 
+| Day 55  | Instance vs class varible| 
 
 <details>
 <summary>📘 PHASE 3: Intermediate Python (Day 41 – Day 60) — Click to expand</summary>
@@ -479,6 +480,14 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-54-Static/st.py)
 
 **💡 Skill:** A static method in Python is a class-related method that does not use instance or class data and can be called directly using the class name without creating an object.
+
+### ✅ **Day 55** — Static-vs-Instance-Variables
+
+📄 [Notes] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/Readme.md)  
+💻 [Code] (https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/invscl.py)
+
+**💡 Skill:** Instance variables store data unique to each object, while class variables store data shared by all objects of a class.
+
 
 </details>
 
