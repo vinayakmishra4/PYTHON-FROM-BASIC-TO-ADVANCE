@@ -380,7 +380,9 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 52  | Inheritance              | 
 | Day 53  | Acess-Modifers           | 
 | Day 54  | Static                   | 
-| Day 55  | Instance vs class varible| 
+| Day 55  | Instance vs class varible|
+| Day 56  | Clear the clutter        |
+
 
 <details>
 <summary>📘 PHASE 3: Intermediate Python (Day 41 – Day 60) — Click to expand</summary>
@@ -487,6 +489,12 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-55-Instance-vs-Class-variables/invscl.py)
 
 **💡 Skill:** Instance variables store data unique to each object, while class variables store data shared by all objects of a class.
+
+### ✅ **Day 56** — Clear the clutter
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-56-EX-7/Cleartheclutter.py)
+
+**💡 Skill:** The code renames all `.png` files in a specified folder sequentially from `1.png` to `n.png`, where `n` is the total number of `.png` files in the folder, using the `os` module to list, filter, and rename the files.
 
 
 </details>
