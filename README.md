@@ -382,6 +382,8 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 54  | Static                   | 
 | Day 55  | Instance vs class varible|
 | Day 56  | Clear the clutter        |
+| Day 57  | Classs Methods           |
+
 
 
 <details>
@@ -496,6 +498,12 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** The code renames all `.png` files in a specified folder sequentially from `1.png` to `n.png`, where `n` is the total number of `.png` files in the folder, using the `os` module to list, filter, and rename the files.
 
+### ✅ **Day 57** — Class Methods
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/edit/main/README.md)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-57-Class-Methods/DAY-57.md)  
+
+**💡 Skill:** Class methods are methods that operate on class-level data, allowing shared behavior and changes that affect all instances of a class.
 
 </details>
 
