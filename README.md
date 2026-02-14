@@ -383,6 +383,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 55  | Instance vs class varible|
 | Day 56  | Clear the clutter        |
 | Day 57  | Classs Methods           |
+| Day 58  | Object Introspection     |
 
 
 
@@ -505,6 +506,14 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Class methods are methods that operate on class-level data, allowing shared behavior and changes that affect all instances of a class.
 
+### ✅ **Day 57** — Object Introspection
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-58-Object-Introspection/oi.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-58-Object-Introspection/DAY-58.md)  
+
+**💡 Skill:** This Python program demonstrates object introspection by dynamically checking an object’s type, attributes, methods, existence of specific properties, and allows runtime access and invocation of its methods and class information.
+
+
 </details>
 
 
@@ -566,5 +575,6 @@ Don’t just learn Python — master it with confidence. Star the repo, commit d
 
 <blockquote style="font-size:1.2em; background:#f9f9f9; border-left:5px solid #FFD700; padding:10px; font-weight:bold; background: linear-gradient(to right, #ffecd2, #fcb69f); -webkit-background-clip: text; color: transparent;">
 🌟 “Code is like humor. When you have to explain it, it’s bad.” — Cory House 🌟
+
 </blockquote>
 <p align="right">— Keep It Clean & Fun!</p>
