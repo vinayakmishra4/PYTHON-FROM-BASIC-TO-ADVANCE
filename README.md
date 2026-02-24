@@ -181,7 +181,7 @@
 | Day 36  | Main(G,D,C)          |
 | Day 37  | Number Guess Game    |
 | Day 38  | Contact book         |
-| Day 39  | TO-DO LIST           |
+| Day 39  | Summary of 20 Days   |
 | Day 40  | L-M-S                |
 
 
@@ -342,9 +342,10 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Build an interactive number guessing game using loops, conditionals, user input, and random number generation.
 
-###  ✅ ** Day 39 ** — To do List
+###  ✅ ** Day 39 ** — Summary of 20 Days
 
-💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-39-TO-DO-LISt/todo.py)
+💻 [Code]()
+📄 [Notes]() 
 
 **💡 Skill:** Build a simple to-do list app to manage tasks dynamically using lists, functions, and file handling.
 
