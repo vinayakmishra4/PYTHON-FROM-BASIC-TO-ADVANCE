@@ -293,7 +293,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ### ✅ **Day 32** — Finally
 
-📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/DAY-31.md)  
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/DAY-32.md)  
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-32-Finaly/finall.py)  
 
 **💡 Skill:** Learn how to use the `finally` block in Python to ensure that important cleanup code (like closing files or releasing resources) always runs, no matter what happens during execution.
@@ -344,10 +344,10 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 ###  ✅ ** Day 39 ** — Summary of 20 Days
 
-💻 [Code]()
-📄 [Notes]() 
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-39-Summary-of-20-Days/summary-20.py)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-39-Summary-of-20-Days/DAY-39.md) 
 
-**💡 Skill:** Build a simple to-do list app to manage tasks dynamically using lists, functions, and file handling.
+**💡 Skill:** This 20-day Python learning journey (Days 21–38) guides learners through advanced data structures, functions, error handling, recursion, and practical CLI projects, combining theory, examples, and hands-on exercises to build coding confidence.
 
 ### ✅ ** Day 40 ** — Project-Libaray Management System
   📄 [Notes](https://github.com/vinayakmishra4/Library-Mangemnt-System) 
