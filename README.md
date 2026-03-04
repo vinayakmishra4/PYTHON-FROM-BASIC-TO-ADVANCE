@@ -507,13 +507,21 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 
 **💡 Skill:** Class methods are methods that operate on class-level data, allowing shared behavior and changes that affect all instances of a class.
 
-### ✅ **Day 57** — Object Introspection
+### ✅ **Day 58** — Object Introspection
 
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-58-Object-Introspection/oi.py)
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-58-Object-Introspection/DAY-58.md)  
 
 **💡 Skill:** This Python program demonstrates object introspection by dynamically checking an object’s type, attributes, methods, existence of specific properties, and allows runtime access and invocation of its methods and class information.
 
+### ✅ **Day 59** — Summary of 20Days(Day41-58)
+
+💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-59-Summary-of-20-Days/Summaryof20Days.md)
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-59-Summary-of-20-Days/Summaryof20Days.md)  
+
+**💡 Skill:** Here’s a **one-sentence summary** of the whole 20-day Python journey (Day 41–58):
+
+**“This 20-day Python journey covers advanced concepts from variables, file I/O, and lambda functions to OOP, decorators, class/static methods, inheritance, access control, object introspection, and practical exercises, equipping you with the skills to write dynamic, reusable, and well-structured Python programs.”**
 
 </details>
 
