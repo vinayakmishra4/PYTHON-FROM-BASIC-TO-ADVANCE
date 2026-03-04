@@ -385,7 +385,7 @@ Great! Here’s a quick summary for **Day 31: Exception Handling** based on that
 | Day 56  | Clear the clutter        |
 | Day 57  | Classs Methods           |
 | Day 58  | Object Introspection     |
-
+| Day 59  | Summary of 20 Days       |
 
 
 <details>
