@@ -1,4 +1,4 @@
-<h1 align="center">✨🐍 <span style="color:#FFD700; text-shadow: 1px 1px #000;">40-Day Python Challenge</span> 🐍✨<br><sub>🚀 From Zero to Hero in Fun, Fast & Practical Steps! 🚀</sub></h1>
+<h1 align="center">✨🐍 <span style="color:#FFD700; text-shadow: 1px 1px #000;">60-Day Python Challenge</span> 🐍✨<br><sub>🚀 From Zero to Hero in Fun, Fast & Practical Steps! 🚀</sub></h1>
 
 <p align="center" style="font-size:1.2em; background: linear-gradient(to right, #ffecd2, #fcb69f); padding: 10px; border-radius: 8px;">
   🌈 <b>Master Python: From Basics ➡ Advanced • Fun • Fast • Practical</b> 🌈
