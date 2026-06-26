@@ -264,313 +264,48 @@ Scroll below and begin with **Phase 1** 👇
 | Day 20 | Python Suite Project        |    ✅   |
 
 ---
+> **Goal:** Build a solid foundation in Python by learning the essential programming concepts every developer should know.
+
+<p align="center">
+
+![Phase 1](https://img.shields.io/badge/Phase%201-Completed-success?style=for-the-badge)
+
+</p>
 
 <details>
-
-<summary><b>📖 Click to View Complete Phase 1 Curriculum</b></summary>
-
----
-
-### ✅ Day 1 — Hello World & Python Setup
-
-📄 **Notes**
-
-* Learn how to install Python
-* Configure your development environment
-* Write your very first Python program
-
-🎯 **Skill**
-
-> Setting up Python and understanding how a Python program works.
-
----
-
-### ✅ Day 2 — Pip & Modules
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Install packages using pip
-* Import Python modules
-* Manage external libraries
-
----
-
-### ✅ Day 3 — First Python Program
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Write your first real Python script
-* Understand execution flow
-
----
-
-### ✅ Day 4 — Comments & Escape Sequences
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Single-line comments
-* Multi-line comments
-* Escape characters
-
----
-
-### ✅ Day 5 — Variables & Data Types
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Integer
-* Float
-* Boolean
-* String
-* Type Checking
-
----
-
-### ✅ Day 6 — Operators
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Arithmetic Operators
-* Logical Operators
-* Comparison Operators
-* Assignment Operators
-
----
-
-### ✅ Day 7 — Type Casting
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Implicit Conversion
-* Explicit Conversion
-
----
-
-### ✅ Day 8 — User Input
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Taking input from users
-* Converting input into numbers
-
----
-
-### ✅ Day 9 — Strings
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Creating Strings
-* Indexing
-* Common String Methods
-
----
-
-### ✅ Day 10 — String Operations
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* String Slicing
-* Searching
-* Replacing
-* Formatting
-
----
-
-### ✅ Day 11 — If-Else Statements
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Decision Making
-* Conditional Logic
-
----
-
-### ✅ Day 12 — Practice Exercise
-
-💻 Code
-
-🎯 **Skill**
-
-Practice everything learned so far.
-
----
-
-### ✅ Day 13 — Match Case Statement
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Modern conditional statements
-* Cleaner branching logic
-
----
-
-### ✅ Day 14 — For Loops
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Looping through sequences
-* Range()
-* Nested loops
-
----
-
-### ✅ Day 15 — While Loops
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Condition-based loops
-* Infinite loops
-* Loop control
-
----
-
-### ✅ Day 16 — Break & Continue
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Exit loops
-* Skip iterations
-* Better control flow
-
----
-
-### ✅ Day 17 — Functions
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Function Creation
-* Function Calling
-* Return Values
-
----
-
-### ✅ Day 18 — Function Arguments
-
-📄 Notes
-
-💻 Code
-
-🎯 **Skill**
-
-* Positional Arguments
-* Keyword Arguments
-* Default Parameters
-
----
-
-### ✅ Day 19 — Revision
-
-📄 Notes
-
-🎯 **Skill**
-
-Review every important concept from Days 1–18.
-
----
-
-### ✅ Day 20 — Python Suite Project
-
-📄 Repository
-
-🎯 **What You'll Build**
-
-A beginner-friendly Python project that combines multiple concepts learned during the first 20 days into a practical application.
-
----
+<summary><b>📖 Click to Expand Phase 1 (Day 1–20)</b></summary>
+
+| Day | Topic                         |                                                                Notes                                                               |                                                                    Code                                                                    |                                                         Repository                                                        | Skill                |
+| :-: | ----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | -------------------- |
+|  1  | Hello World & Setup           |           [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-1-Hello_World-Setup/DAY-1.md)          |                   [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-1-Hello_World-Setup)                   |           [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-1-Hello_World-Setup)          | Python Installation  |
+|  2  | Pip & Modules                 |              [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/DAY-2.md)             |                  [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-2-Pip-Modules/Pimod.py)                 |              [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-2-Pip-Modules)             | Package Management   |
+|  3  | First Program                 |             [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/DAY-3.md)            |             [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-3-First_Program/FirstProgram.py)             |             [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-3-First_Program)            | First Python Program |
+|  4  | Comments & Escape Sequences   | [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/DAY-4.md) |     [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-4-Comments-Escaping-Sequnece-Character/CoEsSe.py)    | [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-4-Comments-Escaping-Sequnece-Character) | Readable Code        |
+|  5  | Variables & Data Types        |         [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/DAY-5.md)         |             [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-5-Variables-Data-Types/VarDa.py)             |         [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-5-Variables-Data-Types)         | Variables            |
+|  6  | Operators                     |                 [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/DAY-6.md)                 |                      [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-6-EX-1/calc.py)                     |                 [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-6-EX-1)                 | Operators            |
+|  7  | Type Casting                  |             [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/DAY-7.md)             |              [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-7-Type-Casting/typecasting.py)              |             [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-7-Type-Casting)             | Type Conversion      |
+|  8  | User Input                    |                 [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/DAY-8.md)                |                     [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-8-Input/Input.py)                    |                 [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-8-Input)                | Console Input        |
+|  9  | Strings                       |                [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/DAY-9.md)               |                     [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-9-Strings/Str.py)                    |                [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-9-Strings)               | String Handling      |
+|  10 | String Operations             |          [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/DAY-10.md)         |             [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-10-String-Operations/Stringop.py)            |          [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-10-String-Operations)          | String Methods       |
+|  11 | If-Else Statements            |          [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-11-IF-ELSE-Statement/DAY-11.md)         |             [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-11-IF-ELSE-Statement/if_else.py)             |          [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-11-IF-ELSE-Statement)          | Decision Making      |
+|  12 | Exercise                      |                                                                  —                                                                 |                      [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-12-EX-2/ex2.py)                     |                 [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-12-EX-2)                | Practice             |
+|  13 | Match Case Statement          |             [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/DAY-13.md)             |              [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-13-Match-case/Matchingcase.py)              |              [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-13-Match-case)             | Pattern Matching     |
+|  14 | For Loops                     |              [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/DAY-14.md)             |                  [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-14-FOR-LOOPS/Table.py)                  |              [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-14-FOR-LOOPS)              | Iteration            |
+|  15 | While Loops                   |              [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/DAY15.md)             |                [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-15-While-Loop/Sum1to10.py)                |              [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-15-While-Loop)             | Loops                |
+|  16 | Break & Continue              |    [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/DAY-16.md)    | [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-16-Break-and-Continue-Statement/day16_break_continue.py) |     [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-16-Break-and-Continue-Statement)    | Loop Control         |
+|  17 | Functions                     |              [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/DAY17.md)              |               [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-17-Functions/Primenumber.py)               |              [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-17-Functions)              | Functions            |
+|  18 | Function Arguments            |         [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/DAY-18.md)        |             [💻](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-18-Functions-Aragumets/Funcar.py)            |         [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-18-Functions-Aragumets)         | Parameters           |
+|  19 | Summary (Day 1–19)            | [📄](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-19-Summary-%28Day1%20to%20Day%2019%29/DAY-19.md) |                                                                      —                                                                     |  [📦](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/tree/main/DAY-19-Summary-%28Day1%20to%20Day%2019%29) | Revision             |
+|  20 | My First Python Suite Project |                                   [📄](https://github.com/vinayakmishra4/Project-My-Python-Suite)                                  |                                                                      —                                                                     |                              [📦](https://github.com/vinayakmishra4/Project-My-Python-Suite)                              | Mini Project         |
 
 </details>
 
 ---
 
-# 🎯 Learning Outcomes
+### 🏆 Phase 1 Complete
 
-After completing Phase 1, you'll be able to:
+Congratulations! 🎉
 
-* ✅ Write Python programs confidently
-* ✅ Understand variables and data types
-* ✅ Work with strings
-* ✅ Take user input
-* ✅ Use loops effectively
-* ✅ Make decisions using conditions
-* ✅ Create reusable functions
-* ✅ Solve beginner programming problems
-* ✅ Build your first Python project
+After completing **Phase 1**, you'll have a strong understanding of Python fundamentals and be ready to move on to **Phase 2 – Intermediate Python**.
 
----
-
-<p align="center">
-
-## 🏆 Congratulations!
-
-You have successfully completed **Phase 1**.
-
-You are now ready for **Phase 2 — Intermediate Python** 🚀
-
-</p>
-
----
-
-➡️ **Next Section:** **📘 Phase 2 — Intermediate Python (Days 21–40)**
-
-(Paste your existing Phase 1 section here)
-```
+➡️ **Next:** 📗 Phase 2 (Day 21–40)
