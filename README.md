@@ -221,9 +221,356 @@ Scroll below and begin with **Phase 1** 👇
 
 ---
 
-```
-📘 Phase 1 (Days 1–20)
+## 📘 Phase 1 — Python Fundamentals (Day 1–20)
 
-⬇️
+> **Goal:** Build a strong foundation in Python by learning the core programming concepts every Python developer needs.
+
+---
+
+### 📈 Phase Progress
+
+```text
+████████████████████ 100%
+
+✅ Days Completed: 20 / 20
+🏆 Phase 1 Completed
+```
+
+---
+
+## 📚 Topics Covered
+
+| Day    | Topic                       | Status |
+| ------ | --------------------------- | :----: |
+| Day 1  | Hello World & Python Setup  |    ✅   |
+| Day 2  | Pip & Modules               |    ✅   |
+| Day 3  | First Python Program        |    ✅   |
+| Day 4  | Comments & Escape Sequences |    ✅   |
+| Day 5  | Variables & Data Types      |    ✅   |
+| Day 6  | Operators                   |    ✅   |
+| Day 7  | Type Casting                |    ✅   |
+| Day 8  | User Input                  |    ✅   |
+| Day 9  | Strings                     |    ✅   |
+| Day 10 | String Operations           |    ✅   |
+| Day 11 | If-Else Statements          |    ✅   |
+| Day 12 | Practice Exercise           |    ✅   |
+| Day 13 | Match Case Statement        |    ✅   |
+| Day 14 | For Loops                   |    ✅   |
+| Day 15 | While Loops                 |    ✅   |
+| Day 16 | Break & Continue            |    ✅   |
+| Day 17 | Functions                   |    ✅   |
+| Day 18 | Function Arguments          |    ✅   |
+| Day 19 | Revision (Day 1–19)         |    ✅   |
+| Day 20 | Python Suite Project        |    ✅   |
+
+---
+
+<details>
+
+<summary><b>📖 Click to View Complete Phase 1 Curriculum</b></summary>
+
+---
+
+### ✅ Day 1 — Hello World & Python Setup
+
+📄 **Notes**
+
+* Learn how to install Python
+* Configure your development environment
+* Write your very first Python program
+
+🎯 **Skill**
+
+> Setting up Python and understanding how a Python program works.
+
+---
+
+### ✅ Day 2 — Pip & Modules
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Install packages using pip
+* Import Python modules
+* Manage external libraries
+
+---
+
+### ✅ Day 3 — First Python Program
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Write your first real Python script
+* Understand execution flow
+
+---
+
+### ✅ Day 4 — Comments & Escape Sequences
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Single-line comments
+* Multi-line comments
+* Escape characters
+
+---
+
+### ✅ Day 5 — Variables & Data Types
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Integer
+* Float
+* Boolean
+* String
+* Type Checking
+
+---
+
+### ✅ Day 6 — Operators
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Arithmetic Operators
+* Logical Operators
+* Comparison Operators
+* Assignment Operators
+
+---
+
+### ✅ Day 7 — Type Casting
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Implicit Conversion
+* Explicit Conversion
+
+---
+
+### ✅ Day 8 — User Input
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Taking input from users
+* Converting input into numbers
+
+---
+
+### ✅ Day 9 — Strings
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Creating Strings
+* Indexing
+* Common String Methods
+
+---
+
+### ✅ Day 10 — String Operations
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* String Slicing
+* Searching
+* Replacing
+* Formatting
+
+---
+
+### ✅ Day 11 — If-Else Statements
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Decision Making
+* Conditional Logic
+
+---
+
+### ✅ Day 12 — Practice Exercise
+
+💻 Code
+
+🎯 **Skill**
+
+Practice everything learned so far.
+
+---
+
+### ✅ Day 13 — Match Case Statement
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Modern conditional statements
+* Cleaner branching logic
+
+---
+
+### ✅ Day 14 — For Loops
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Looping through sequences
+* Range()
+* Nested loops
+
+---
+
+### ✅ Day 15 — While Loops
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Condition-based loops
+* Infinite loops
+* Loop control
+
+---
+
+### ✅ Day 16 — Break & Continue
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Exit loops
+* Skip iterations
+* Better control flow
+
+---
+
+### ✅ Day 17 — Functions
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Function Creation
+* Function Calling
+* Return Values
+
+---
+
+### ✅ Day 18 — Function Arguments
+
+📄 Notes
+
+💻 Code
+
+🎯 **Skill**
+
+* Positional Arguments
+* Keyword Arguments
+* Default Parameters
+
+---
+
+### ✅ Day 19 — Revision
+
+📄 Notes
+
+🎯 **Skill**
+
+Review every important concept from Days 1–18.
+
+---
+
+### ✅ Day 20 — Python Suite Project
+
+📄 Repository
+
+🎯 **What You'll Build**
+
+A beginner-friendly Python project that combines multiple concepts learned during the first 20 days into a practical application.
+
+---
+
+</details>
+
+---
+
+# 🎯 Learning Outcomes
+
+After completing Phase 1, you'll be able to:
+
+* ✅ Write Python programs confidently
+* ✅ Understand variables and data types
+* ✅ Work with strings
+* ✅ Take user input
+* ✅ Use loops effectively
+* ✅ Make decisions using conditions
+* ✅ Create reusable functions
+* ✅ Solve beginner programming problems
+* ✅ Build your first Python project
+
+---
+
+<p align="center">
+
+## 🏆 Congratulations!
+
+You have successfully completed **Phase 1**.
+
+You are now ready for **Phase 2 — Intermediate Python** 🚀
+
+</p>
+
+---
+
+➡️ **Next Section:** **📘 Phase 2 — Intermediate Python (Days 21–40)**
+
 (Paste your existing Phase 1 section here)
 ```
