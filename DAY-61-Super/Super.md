@@ -1,6 +1,3 @@
-Here is the README with all code examples removed while keeping it informative and professional.
-
-````markdown
 # 🚀 Super Keyword (`super()`)
 
 <p align="center">
