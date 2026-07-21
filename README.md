@@ -15,7 +15,7 @@
 
 | 🗓️ Days Logged | 📚 Phases | 🛠️ Mini-Projects | 🏆 Capstones |
 |:---:|:---:|:---:|:---:|
-| **61** | **4** | **6** | **3** |
+| **62** | **4** | **6** | **3** |
 
 </div>
 
@@ -51,28 +51,9 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 ### Phase 1 — Python Fundamentals (Day 1–20) 🏆
 
-| Day | Topic |
-|---|---|
-| Day 1 | Hello World & Setup |
-| Day 2 | Pip and Modules |
-| Day 3 | First Program |
-| Day 4 | Comments & Escape Sequences |
-| Day 5 | Variables & Data Types |
-| Day 6 | Operators |
-| Day 7 | Type Casting |
-| Day 8 | Input (Scanner) |
-| Day 9 | Strings |
-| Day 10 | String Slicing & Operations |
-| Day 11 | IF-ELSE Statements |
-| Day 12 | Exercise |
-| Day 13 | Match Case Statement |
-| Day 14 | FOR Loops |
-| Day 15 | WHILE Loops |
-| Day 16 | Break & Continue |
-| Day 17 | Functions |
-| Day 18 | Function Arguments |
-| Day 19 | Summary (Review Day) |
-| Day 20 | Capstone: My First Python Suite Project |
+**Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` (20/20 days)
+
+Phase 1 lays the groundwork for everything that follows. It starts with installing Python and writing a first script, then builds up core fundamentals — variables, data types, operators, and strings — before moving into control flow with conditionals and loops. The phase closes with functions and a first mini CLI project that ties these fundamentals together.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 1 day-by-day breakdown</strong></summary>
@@ -161,28 +142,9 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 ### Phase 2 — Intermediate Python (Day 21–40) 🏆
 
-| Day | Topic |
-|---|---|
-| Day 21 | Intro to Lists |
-| Day 22 | List Methods |
-| Day 23 | Intro to Tuples |
-| Day 24 | Tuple Methods |
-| Day 25 | KBC (Quiz Game) |
-| Day 26 | F-Strings: Formatting |
-| Day 27 | Doc-Strings and PEP-8 |
-| Day 28 | Recursion |
-| Day 29 | Sets |
-| Day 30 | Dictionaries |
-| Day 31 | Exception Handling |
-| Day 32 | Finally |
-| Day 33 | Custom Errors |
-| Day 34 | Secret Code Language |
-| Day 35 | Enumerate |
-| Day 36 | Generators, Decorators, Context Managers |
-| Day 37 | Number Guess Game |
-| Day 38 | Contact Book |
-| Day 39 | Summary of 20 Days |
-| Day 40 | Capstone: Library Management System |
+**Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` (20/20 days)
+
+Phase 2 moves from single values to collections and more robust code. It covers lists, tuples, sets, and dictionaries, alongside cleaner coding habits like f-strings, docstrings, and PEP-8. Recursion, exception handling, and generators/decorators/context managers round out the toolkit, and several mini-projects put it all into practice — culminating in a capstone library management system.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 2 day-by-day breakdown</strong></summary>
@@ -271,28 +233,9 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 ### Phase 3 — Advanced Python (Day 41–60) 🏆
 
-| Day | Topic |
-|---|---|
-| Day 41 | Local and Global Variables |
-| Day 42 | File Handling |
-| Day 43 | Lambda Functions |
-| Day 44 | Map, Filter and Reduce |
-| Day 45 | Equal vs Identity |
-| Day 46 | Snake Game |
-| Day 47 | Intro to OOP |
-| Day 48 | Class and Objects |
-| Day 49 | Constructor |
-| Day 50 | Decorators |
-| Day 51 | Getter and Setter |
-| Day 52 | Inheritance |
-| Day 53 | Access Modifiers |
-| Day 54 | Static Methods |
-| Day 55 | Instance vs Class Variables |
-| Day 56 | File-Cleanup Utility |
-| Day 57 | Class Methods |
-| Day 58 | Object Introspection |
-| Day 59 | Summary of 20 Days |
-| Day 60 | Capstone: Mini Banking System |
+**Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` (20/20 days)
+
+Phase 3 is where Python becomes properly object-oriented. It starts with scope, file handling, and functional patterns like lambda, map, filter, and reduce, then moves into classes, constructors, inheritance, access control, and static/class methods. The phase ends with a full capstone project — a console-based banking simulator that brings together file-based persistence and OOP design.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 3 day-by-day breakdown</strong></summary>
@@ -382,11 +325,9 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 ### Phase 4 — Continuing the Journey (Day 61 onward) 🚧
 
-| Day | Topic |
-|---|---|
-| Day 61 | The `super()` Keyword |
+**Progress:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ `10%` (2/20 days, assuming a 20-day phase like the others)
 
-*More days will be added here as the challenge continues.*
+Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model. So far it covers `super()` for parent-class delegation (Day 61) and dunder methods for making custom classes behave like Python's built-ins (Day 62). More days will be added here as the challenge continues.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 4 day-by-day breakdown</strong></summary>
@@ -395,6 +336,10 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-61-Super/Super.md) · 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-61-Super/Superkey.py)
 💡 *Skill:* Use `super()` to call a parent class's constructor and methods, following Python's Method Resolution Order (MRO) for cleaner, more maintainable inheritance.
 
+**Day 62 — Dunder (Magic) Methods**
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-62-Dunder/DAY-62-Dunder.md) · 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-62-Dunder/Day-62-Dunder.py)
+💡 *Skill:* Implement dunder methods (`__str__`, `__len__`, `__add__`, `__gt__`, `__call__`, `__getitem__`) so a custom `Student` class can print, compare, add, and index like a built-in type.
+
 </details>
 
 ## Skills Gained
@@ -402,7 +347,7 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 - 🐍 Core Python syntax, control flow, and functions
 - 📦 Working with core data structures: lists, tuples, sets, dictionaries
 - 🛡️ Exception handling and custom error design
-- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()`), and abstraction basics
+- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()`), operator overloading via dunder methods, and abstraction basics
 - ⚡ Functional programming patterns: lambda expressions, `map`/`filter`/`reduce`
 - 💾 File handling and persistent data storage (including Excel-based storage)
 - 🖥️ Building complete, small CLI applications end-to-end — including a full console-based banking simulator
@@ -421,6 +366,7 @@ General patterns practiced throughout the challenge (conceptual only, not runnab
 | Exception handling | `try: ... except ExceptionType: ... finally: ...` |
 | Class definition | `class ClassName: def __init__(self, ...): ...` |
 | Parent class access | `super().__init__(parameters)` |
+| Dunder / magic method | `def __method_name__(self, ...): ...` |
 | Lambda expression | `lambda parameters: expression` |
 | Iterable transforms | `map(function, iterable)`, `filter(function, iterable)` |
 
