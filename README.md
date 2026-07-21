@@ -1,29 +1,38 @@
 # 60-Day Python Challenge — From Zero to Hero
 
-<p align="center">
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Ongoing-blueviolet)
-![Phase 1](https://img.shields.io/badge/Phase%201-Complete-brightgreen)
-![Phase 2](https://img.shields.io/badge/Phase%202-Complete-brightgreen)
-![Phase 3](https://img.shields.io/badge/Phase%203-Complete-brightgreen)
-![Phase 4](https://img.shields.io/badge/Phase%204-In%20Progress-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+### 🐍 *Fun • Fast • Practical — A Self-Directed Journey to Python Mastery* 🐍
 
-</p>
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ongoing-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-*A self-directed, day-by-day journey through Python — from absolute basics to object-oriented programming and beyond.*
+![Phase 1](https://img.shields.io/badge/Phase%201-Complete-brightgreen?style=for-the-badge)
+![Phase 2](https://img.shields.io/badge/Phase%202-Complete-brightgreen?style=for-the-badge)
+![Phase 3](https://img.shields.io/badge/Phase%203-Complete-brightgreen?style=for-the-badge)
+![Phase 4](https://img.shields.io/badge/Phase%204-In%20Progress-orange?style=for-the-badge)
+
+| 🗓️ Days Logged | 📚 Phases | 🛠️ Mini-Projects | 🏆 Capstones |
+|:---:|:---:|:---:|:---:|
+| **61** | **4** | **6** | **3** |
+
+</div>
+
+---
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Course Info](#course-info)
-- [Topics Covered](#topics-covered)
-- [Skills Gained](#skills-gained)
-- [Syntax / Key Concepts](#syntax--key-concepts)
-- [Certificate](#certificate)
-- [Reference / Link](#reference--link)
-- [Key Takeaways / Next Steps](#key-takeaways--next-steps)
+- [📖 Overview](#overview)
+- [🗂️ Course Info](#course-info)
+- [🧭 Topics Covered](#topics-covered)
+- [🎯 Skills Gained](#skills-gained)
+- [🧩 Syntax / Key Concepts](#syntax--key-concepts)
+- [🏅 Certificate](#certificate)
+- [🔗 Reference / Link](#reference--link)
+- [🚀 Key Takeaways / Next Steps](#key-takeaways--next-steps)
+
+---
 
 ## Overview
 
@@ -33,14 +42,14 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 | Detail | Description |
 |---|---|
-| **Format / Provider** | Self-paced, independent study (personal challenge) |
-| **Duration** | 60+ Days — originally 3 phases of 20 days, now extended with a 4th phase |
-| **Completion Status** | ✅ Phases 1–3 complete (Day 1–60) · 🚧 Phase 4 in progress (Day 61 onward) |
-| **Prerequisites** | None — designed to start from absolute basics |
+| 🗂️ **Format / Provider** | Self-paced, independent study (personal challenge) |
+| ⏳ **Duration** | 60+ Days — originally 3 phases of 20 days, now extended with a 4th phase |
+| ✅ **Completion Status** | Phases 1–3 complete (Day 1–60) · 🚧 Phase 4 in progress (Day 61 onward) |
+| 📋 **Prerequisites** | None — designed to start from absolute basics |
 
 ## Topics Covered
 
-### Phase 1 — Python Fundamentals (Day 1–20) ✅
+### Phase 1 — Python Fundamentals (Day 1–20) 🏆
 
 | Day | Topic |
 |---|---|
@@ -150,7 +159,7 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 </details>
 
-### Phase 2 — Intermediate Python (Day 21–40) ✅
+### Phase 2 — Intermediate Python (Day 21–40) 🏆
 
 | Day | Topic |
 |---|---|
@@ -260,7 +269,7 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 </details>
 
-### Phase 3 — Advanced Python (Day 41–60) ✅
+### Phase 3 — Advanced Python (Day 41–60) 🏆
 
 | Day | Topic |
 |---|---|
@@ -390,14 +399,14 @@ This repository documents a **60-Day Python Challenge** — a structured, self-p
 
 ## Skills Gained
 
-- Core Python syntax, control flow, and functions
-- Working with core data structures: lists, tuples, sets, dictionaries
-- Exception handling and custom error design
-- Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()`), and abstraction basics
-- Functional programming patterns: lambda expressions, `map`/`filter`/`reduce`
-- File handling and persistent data storage (including Excel-based storage)
-- Building complete, small CLI applications end-to-end — including a full console-based banking simulator
-- Writing structured technical documentation and maintaining a public repository
+- 🐍 Core Python syntax, control flow, and functions
+- 📦 Working with core data structures: lists, tuples, sets, dictionaries
+- 🛡️ Exception handling and custom error design
+- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()`), and abstraction basics
+- ⚡ Functional programming patterns: lambda expressions, `map`/`filter`/`reduce`
+- 💾 File handling and persistent data storage (including Excel-based storage)
+- 🖥️ Building complete, small CLI applications end-to-end — including a full console-based banking simulator
+- 📝 Writing structured technical documentation and maintaining a public repository
 
 ## Syntax / Key Concepts
 
@@ -421,20 +430,26 @@ This is a self-directed challenge rather than an instructor-led course, so no fo
 
 ## Reference / Link
 
-- [Main Repository — PYTHON-FROM-BASIC-TO-ADVANCE](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE)
-- [Capstone Project — Mini Banking System](https://github.com/vinayakmishra4/Project-Mini-Banking-System)
+- 📁 [Main Repository — PYTHON-FROM-BASIC-TO-ADVANCE](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE)
+- 🏦 [Capstone Project — Mini Banking System](https://github.com/vinayakmishra4/Project-Mini-Banking-System)
 
 ## Key Takeaways / Next Steps
 
-- Harden the Mini Banking System capstone with proper authentication, input validation, and automated tests
-- Continue Phase 4 and keep exploring deeper OOP and advanced Python concepts
-- Apply these Python foundations directly to ongoing data science work — data cleaning, EDA, and visualization with Pandas, NumPy, Matplotlib, and Seaborn
-- Use the OOP and functional programming concepts to write cleaner, more modular data and ML pipelines
-- Keep building small, complete projects to reinforce concepts under real constraints
-- Continue refining this repository as a portfolio piece
+- 🔐 Harden the Mini Banking System capstone with proper authentication, input validation, and automated tests
+- 🚀 Continue Phase 4 and keep exploring deeper OOP and advanced Python concepts
+- 📊 Apply these Python foundations directly to ongoing data science work — data cleaning, EDA, and visualization with Pandas, NumPy, Matplotlib, and Seaborn
+- 🔧 Use the OOP and functional programming concepts to write cleaner, more modular data and ML pipelines
+- 🏗️ Keep building small, complete projects to reinforce concepts under real constraints
+- ✨ Continue refining this repository as a portfolio piece
 
 ---
 
-<p align="center">
-Author: <a href="https://github.com/vinayakmishra4">Vinayak Mishra</a> &nbsp;·&nbsp; ⭐ Star the repo if you found this journey useful!
-</p>
+> 💬 *Every line of code today is a step closer to mastery tomorrow — keep building.*
+
+<div align="center">
+
+**Author:** [Vinayak Mishra](https://github.com/vinayakmishra4)
+
+⭐ **If this journey inspired you, consider starring the repo!** ⭐
+
+</div>
