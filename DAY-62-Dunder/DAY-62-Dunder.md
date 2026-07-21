@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Dunder Methods (`__dunder__`) in Python
 
 > **"Dunder"** stands for **Double UNDERscore**. These are special methods in Python that allow you to define how objects of your custom classes behave with built-in Python operations.
@@ -294,4 +293,3 @@ Understanding Dunder Methods helps you:
 - Learning Dunder Methods is essential for writing **efficient, reusable, and Pythonic object-oriented programs**.
 
 > **In simple terms:** Dunder Methods act as the communication bridge between your custom classes and Python itself, allowing your objects to behave naturally with the language's built-in operations and functions.
-```
