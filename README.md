@@ -15,7 +15,7 @@
 
 | 🗓️ Days Logged | 📚 Phases | 🛠️ Mini-Projects | 🏆 Capstones |
 |:---:|:---:|:---:|:---:|
-| **62** | **4** | **6** | **3** |
+| **63** | **4** | **6** | **3** |
 
 </div>
 
@@ -325,9 +325,9 @@ Phase 3 is where Python becomes properly object-oriented. It starts with scope, 
 
 ### Phase 4 — Continuing the Journey (Day 61 onward) 🚧
 
-**Progress:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ `10%` (2/20 days, assuming a 20-day phase like the others)
+**Progress:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ `15%` (3/20 days, assuming a 20-day phase like the others)
 
-Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model. So far it covers `super()` for parent-class delegation (Day 61) and dunder methods for making custom classes behave like Python's built-ins (Day 62). More days will be added here as the challenge continues.
+Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model. So far it covers `super()` for parent-class delegation (Day 61), dunder methods for making custom classes behave like Python's built-ins (Day 62), and method overriding for customizing inherited behavior (Day 63). More days will be added here as the challenge continues.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 4 day-by-day breakdown</strong></summary>
@@ -340,6 +340,10 @@ Phase 4 picks up past the original 60 days to keep pushing deeper into Python's 
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-62-Dunder/DAY-62-Dunder.md) · 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-62-Dunder/Day-62-Dunder.py)
 💡 *Skill:* Implement dunder methods (`__str__`, `__len__`, `__add__`, `__gt__`, `__call__`, `__getitem__`) so a custom `Student` class can print, compare, add, and index like a built-in type.
 
+**Day 63 — Method Overriding**
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-63-Method-Overriding/Day-63-Methoding-Overriding.md) · 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-63-Method-Overriding/Day-63-Methoding-Overriding.py)
+💡 *Skill:* Override a parent class method (`Person.introduce()` → `Student.introduce()`) so the child class's version runs automatically — the core mechanism behind runtime polymorphism.
+
 </details>
 
 ## Skills Gained
@@ -347,7 +351,7 @@ Phase 4 picks up past the original 60 days to keep pushing deeper into Python's 
 - 🐍 Core Python syntax, control flow, and functions
 - 📦 Working with core data structures: lists, tuples, sets, dictionaries
 - 🛡️ Exception handling and custom error design
-- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()`), operator overloading via dunder methods, and abstraction basics
+- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()` and method overriding for runtime polymorphism), operator overloading via dunder methods, and abstraction basics
 - ⚡ Functional programming patterns: lambda expressions, `map`/`filter`/`reduce`
 - 💾 File handling and persistent data storage (including Excel-based storage)
 - 🖥️ Building complete, small CLI applications end-to-end — including a full console-based banking simulator
@@ -367,6 +371,7 @@ General patterns practiced throughout the challenge (conceptual only, not runnab
 | Class definition | `class ClassName: def __init__(self, ...): ...` |
 | Parent class access | `super().__init__(parameters)` |
 | Dunder / magic method | `def __method_name__(self, ...): ...` |
+| Method overriding | `class Child(Parent): def method_name(self, ...): ...` |
 | Lambda expression | `lambda parameters: expression` |
 | Iterable transforms | `map(function, iterable)`, `filter(function, iterable)` |
 
