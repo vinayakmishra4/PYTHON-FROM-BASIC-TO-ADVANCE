@@ -380,6 +380,9 @@ General patterns practiced throughout the challenge (conceptual only, not runnab
 | Lambda expression | `lambda parameters: expression` |
 | Iterable transforms | `map(function, iterable)`, `filter(function, iterable)` |
 
+## Certificate
+
+This is a self-directed challenge rather than an instructor-led course, so no formal certificate is issued. Progress is instead tracked through daily commits, per-day notes, and phase-completion milestones within the project repository.
 
 ## Reference / Link
 
