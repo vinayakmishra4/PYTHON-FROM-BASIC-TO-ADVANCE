@@ -15,7 +15,7 @@
 
 | 🗓️ Days Logged | 📚 Phases | 🛠️ Mini-Projects | 🏆 Capstones |
 |:---:|:---:|:---:|:---:|
-| **65** | **4** | **6** | **3** |
+| **66** | **4** | **6** | **3** |
 
 </div>
 
@@ -325,9 +325,9 @@ Phase 3 is where Python becomes properly object-oriented. It starts with scope, 
 
 ### Phase 4 — Continuing the Journey (Day 61 onward) 🚧
 
-**Progress:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ `25%` (5/20 days, assuming a 20-day phase like the others)
+**Progress:** 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ `30%` (6/20 days, assuming a 20-day phase like the others)
 
-Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model and practical scripting. So far it covers `super()` for parent-class delegation (Day 61), dunder methods for making custom classes behave like Python's built-ins (Day 62), method overriding for customizing inherited behavior (Day 63), a PDF-merging utility built with a third-party library (Day 64), and a deeper look at all five types of inheritance (Day 65). More days will be added here as the challenge continues.
+Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model and practical scripting. So far it covers `super()` for parent-class delegation (Day 61), dunder methods for making custom classes behave like Python's built-ins (Day 62), method overriding for customizing inherited behavior (Day 63), a PDF-merging utility built with a third-party library (Day 64), a deeper look at all five types of inheritance (Day 65), and a focused, coded example of single inheritance (Day 66). More days will be added here as the challenge continues.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 4 day-by-day breakdown</strong></summary>
@@ -351,6 +351,10 @@ Phase 4 picks up past the original 60 days to keep pushing deeper into Python's 
 **Day 65 — Inheritance: The Five Types**
 📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-65-Inheritance.md)
 💡 *Skill:* Go beyond the Day 52 basics to cover all five inheritance patterns — single, multiple, multilevel, hierarchical, and hybrid — and when each one fits a class design.
+
+**Day 66 — Single Inheritance**
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-66-Single-Inheritance/Single-Inheritance.md) · 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-66-Single-Inheritance/Day-66.py)
+💡 *Skill:* Implement the classic one-parent, one-child case — an `Animal` → `Dog` example where the child inherits `eat()` and adds its own `bark()` — putting Day 65's single-inheritance theory into code.
 
 </details>
 
@@ -378,6 +382,7 @@ General patterns practiced throughout the challenge (conceptual only, not runnab
 | Function definition | `def function_name(parameters): ...` |
 | Exception handling | `try: ... except ExceptionType: ... finally: ...` |
 | Class definition | `class ClassName: def __init__(self, ...): ...` |
+| Single inheritance | `class Child(Parent): ...` |
 | Multiple inheritance | `class Child(Parent1, Parent2): ...` |
 | Parent class access | `super().__init__(parameters)` |
 | Dunder / magic method | `def __method_name__(self, ...): ...` |
