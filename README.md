@@ -15,7 +15,7 @@
 
 | 🗓️ Days Logged | 📚 Phases | 🛠️ Mini-Projects | 🏆 Capstones |
 |:---:|:---:|:---:|:---:|
-| **64** | **4** | **6** | **3** |
+| **65** | **4** | **6** | **3** |
 
 </div>
 
@@ -325,9 +325,9 @@ Phase 3 is where Python becomes properly object-oriented. It starts with scope, 
 
 ### Phase 4 — Continuing the Journey (Day 61 onward) 🚧
 
-**Progress:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ `20%` (4/20 days, assuming a 20-day phase like the others)
+**Progress:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ `25%` (5/20 days, assuming a 20-day phase like the others)
 
-Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model and practical scripting. So far it covers `super()` for parent-class delegation (Day 61), dunder methods for making custom classes behave like Python's built-ins (Day 62), method overriding for customizing inherited behavior (Day 63), and a PDF-merging utility built with a third-party library (Day 64). More days will be added here as the challenge continues.
+Phase 4 picks up past the original 60 days to keep pushing deeper into Python's object model and practical scripting. So far it covers `super()` for parent-class delegation (Day 61), dunder methods for making custom classes behave like Python's built-ins (Day 62), method overriding for customizing inherited behavior (Day 63), a PDF-merging utility built with a third-party library (Day 64), and a deeper look at all five types of inheritance (Day 65). More days will be added here as the challenge continues.
 
 <details>
 <summary><strong>📘 Click to expand — Phase 4 day-by-day breakdown</strong></summary>
@@ -348,6 +348,10 @@ Phase 4 picks up past the original 60 days to keep pushing deeper into Python's 
 💻 [Code](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/EX-8.py)
 💡 *Skill:* Use the third-party `PyPDF2` library's `PdfMerger` to combine multiple user-specified PDF files into a single output file, with error handling for missing files.
 
+**Day 65 — Inheritance: The Five Types**
+📄 [Notes](https://github.com/vinayakmishra4/PYTHON-FROM-BASIC-TO-ADVANCE/blob/main/DAY-65-Inheritance.md)
+💡 *Skill:* Go beyond the Day 52 basics to cover all five inheritance patterns — single, multiple, multilevel, hierarchical, and hybrid — and when each one fits a class design.
+
 </details>
 
 ## Skills Gained
@@ -355,7 +359,8 @@ Phase 4 picks up past the original 60 days to keep pushing deeper into Python's 
 - 🐍 Core Python syntax, control flow, and functions
 - 📦 Working with core data structures: lists, tuples, sets, dictionaries
 - 🛡️ Exception handling and custom error design
-- 🏗️ Object-Oriented Programming: encapsulation, inheritance (including constructor chaining via `super()` and method overriding for runtime polymorphism), operator overloading via dunder methods, and abstraction basics
+- 🏗️ Object-Oriented Programming fundamentals: encapsulation, abstraction, and all five inheritance types (single, multiple, multilevel, hierarchical, hybrid)
+- 🔗 Advanced OOP mechanics: constructor chaining via `super()`, method overriding for runtime polymorphism, and operator overloading via dunder methods
 - ⚡ Functional programming patterns: lambda expressions, `map`/`filter`/`reduce`
 - 💾 File handling and persistent data storage (including Excel-based storage and PDF merging with PyPDF2)
 - 🖥️ Building complete, small CLI applications end-to-end — including a full console-based banking simulator
@@ -373,6 +378,7 @@ General patterns practiced throughout the challenge (conceptual only, not runnab
 | Function definition | `def function_name(parameters): ...` |
 | Exception handling | `try: ... except ExceptionType: ... finally: ...` |
 | Class definition | `class ClassName: def __init__(self, ...): ...` |
+| Multiple inheritance | `class Child(Parent1, Parent2): ...` |
 | Parent class access | `super().__init__(parameters)` |
 | Dunder / magic method | `def __method_name__(self, ...): ...` |
 | Method overriding | `class Child(Parent): def method_name(self, ...): ...` |
